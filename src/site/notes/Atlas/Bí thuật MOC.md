@@ -30,7 +30,7 @@ tags:: #map
 
 > Danh sách chúng nó đây: 
 
-- [[+ Encounters/AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)\|AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)]]
+- [[Sources/AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)\|AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)]]
 - [[Sources/Phần mềm diệt virus ESET\|Phần mềm diệt virus ESET]]
 - [[Sources/Phần mềm chụp màn hình Snagit\|Phần mềm chụp màn hình Snagit]]
 - [[Sources/Phần mềm IDM - Internet Download Manager\|Phần mềm IDM - Internet Download Manager]]
