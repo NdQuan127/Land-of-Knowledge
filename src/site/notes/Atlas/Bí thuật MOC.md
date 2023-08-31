@@ -36,9 +36,7 @@ tags:: #map
 - [[Sources/Phần mềm IDM - Internet Download Manager\|Phần mềm IDM - Internet Download Manager]]
 - [[Sources/Phần mềm dịch Mate Translate Pro\|Phần mềm dịch Mate Translate Pro]]
 - [[Sources/Phần mềm chuyên trị mất mạng Internet\|Phần mềm chuyên trị mất mạng Internet]]
-- [[+ Encounters/Adobe Photoshop + Remove Tool\|Adobe Photoshop + Remove Tool]]
+- [[Sources/Adobe Photoshop + Remove Tool\|Adobe Photoshop + Remove Tool]]
 - **Tổng hợp về khôi phục dữ liệu** (đang làm)
 
-## Tối ưu và các add-on hữu ích cho firefox 
-
-> để up sau, đang lười ＜（＾－＾）＞
+## [[+ Encounters/Nhập môn Firefox\|Nhập môn Firefox]]
