@@ -39,4 +39,4 @@ tags:: #map
 - [[Sources/Adobe Photoshop + Remove Tool\|Adobe Photoshop + Remove Tool]]
 - **Tổng hợp về khôi phục dữ liệu** (đang làm)
 
-## [[+ Encounters/Nhập môn Firefox\|Nhập môn Firefox]]
+## [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
