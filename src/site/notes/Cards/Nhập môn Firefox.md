@@ -39,12 +39,11 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 ## Addon bá đạo cho firefox
 *updating...*
 - [[External Application - Kết nối Firefox với ứng dụng ngoài để mở/tải video/playlist bằng MPV/yt-dlp\|External Application - Kết nối Firefox với ứng dụng ngoài để mở/tải video/playlist bằng MPV/yt-dlp]]
-- [[Violentmonkey/Greasymonkey/Tampermonkey\|Violentmonkey/Greasymonkey/Tampermonkey]]
-- [[Sidebery - Quản lý tab dọc với tính tuỳ biến cao\|Sidebery - Quản lý tab dọc với tính tuỳ biến cao]]
-- [[Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM\|Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM]]
-- [[Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...\|Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...]]
-- [[Search in Sidebar - Search qua sidebar mà ko cần mở tab mới\|Search in Sidebar - Search qua sidebar mà ko cần mở tab mới]]
-![Pasted image 20230831150838.png](/img/user/Extras/Images/Pasted%20image%2020230831150838.png)
-- [[Search by Image - Tìm kiếm ảnh, dịch trong ảnh\|Search by Image - Tìm kiếm ảnh, dịch trong ảnh]]
+- [[+ Encounters/Violentmonkey-Greasymonkey-Tampermonkey\|Violentmonkey-Greasymonkey-Tampermonkey]]
+- [[Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao\|Sidebery - Quản lý tab dọc với tính tuỳ biến cao]]
+- [[Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM\|Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM]]
+- [[Sources/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...\|Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...]]
+- [[Sources/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới\|Search in Sidebar - Search qua sidebar mà ko cần mở tab mới]]
+- [[Sources/Search by Image - Tìm kiếm ảnh, dịch trong ảnh\|Search by Image - Tìm kiếm ảnh, dịch trong ảnh]]
 - [[Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web\|Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web]]
 - [[ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn\|ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn]]
