@@ -13,7 +13,7 @@ tags:: #on/bt_chiase
 **[External Application](https://addons.mozilla.org/en-US/firefox/addon/external-application/)**: Addon giúp kết nối Firefox với các ứng dụng bên ngoài, mở rộng khả năng của Firefox ra thành gần như vô hạn, nó có thể làm được những điều sau dựa trên thời gian thử nghiệm ngắn ngủi của mình:  
 
 - Xổ video/playlist từ các trang như Youtube, Dailymotion, Twitch, Nicovideo... ra thẳng MPV để xem, tăng tính trải nghiệm: [Demo 1](https://streamable.com/7xioq7) | [Demo 2](https://streamable.com/sajctf)
-- [Xổ livestream sang MPV xem bỏ qua quảng cáo hoàn toàn](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-24191753)
+- Xổ livestream sang MPV xem bỏ qua quảng cáo hoàn toàn
 - Gửi thẳng ảnh tới phần mềm sửa ảnh để chỉnh sửa
 - Gửi file đến Sandbox để mở luôn trong Sandbox
 - Và rất rất nhiều sự kết hợp khác...
