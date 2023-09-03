@@ -10,6 +10,7 @@ tags:: #on/bt_chiase
 > Cái này để setup thực ra khó vãi l** nên anh em cố gắng đọc kỹ đừng bỏ sót chỗ nào 🙂
 
 **Video thành quả:** https://app.screencast.com/YfChCkjCDfu2l
+
 **[External Application](https://addons.mozilla.org/en-US/firefox/addon/external-application/)**: Addon giúp kết nối Firefox với các ứng dụng bên ngoài, mở rộng khả năng của Firefox ra thành gần như vô hạn, nó có thể làm được những điều sau dựa trên thời gian thử nghiệm ngắn ngủi của mình:  
 
 - Xổ video/playlist từ các trang như Youtube, Dailymotion, Twitch, Nicovideo... ra thẳng MPV để xem, tăng tính trải nghiệm: [Demo 1](https://streamable.com/7xioq7) | [Demo 2](https://streamable.com/sajctf)
