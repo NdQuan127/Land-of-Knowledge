@@ -47,3 +47,4 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 - [[Sources/Search by Image - Tìm kiếm ảnh, dịch trong ảnh\|Search by Image - Tìm kiếm ảnh, dịch trong ảnh]]
 - [[Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web\|Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web]]
 - [[ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn\|ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn]]
+- 
