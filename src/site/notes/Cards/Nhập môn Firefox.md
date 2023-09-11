@@ -10,7 +10,7 @@ tags:: #on/bt_chiase
 
 ## Tối ưu Firefox
 - Đầu tiên anh em hãy chọn cho mình 1 bản mod ngon đã: [[Sources/Các bản mod ngon của Firefox\|Các bản mod ngon của Firefox]]
-- [[+ Encounters/uBlock+Auto Tab Discard - Khởi nguồn của sức mạnh!\|uBlock+Auto Tab Discard - Khởi nguồn của sức mạnh!]]
+- [[Cards/uBlock+Auto Tab Discard - Khởi nguồn của sức mạnh!\|uBlock+Auto Tab Discard - Khởi nguồn của sức mạnh!]]
 - Có 1 fact là thằng Windows Defender cố tình đì các browser khác để buff bẩn cho Edge và Firefox là 1 trong những thằng bị đì ác nhất. Vậy giải pháp của chúng ta là: [[Sources/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ\|Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ]]
 - [[Sources/nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU\|nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU]]
 - [[Sources/Ép Firefox lưu cache trên RAM mà không cần RAMDisk\|Ép Firefox lưu cache trên RAM mà không cần RAMDisk]]
@@ -39,12 +39,12 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 ## Addon bá đạo cho firefox
 *updating...*
 - [[External Application - Kết nối Firefox với ứng dụng ngoài để mở/tải video/playlist bằng MPV/yt-dlp\|External Application - Kết nối Firefox với ứng dụng ngoài để mở/tải video/playlist bằng MPV/yt-dlp]]
-- [[+ Encounters/Violentmonkey-Greasymonkey-Tampermonkey\|Violentmonkey-Greasymonkey-Tampermonkey]]
+- [[Cards/Violentmonkey-Greasymonkey-Tampermonkey\|Violentmonkey-Greasymonkey-Tampermonkey]]
 - [[Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao\|Sidebery - Quản lý tab dọc với tính tuỳ biến cao]]
 - [[Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM\|Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM]]
 - [[Sources/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...\|Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...]]
 - [[Sources/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới\|Search in Sidebar - Search qua sidebar mà ko cần mở tab mới]]
 - [[Sources/Search by Image - Tìm kiếm ảnh, dịch trong ảnh\|Search by Image - Tìm kiếm ảnh, dịch trong ảnh]]
 - [[Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web\|Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web]]
-- [[ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn\|ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn]]
+- [[Cards/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn\|ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn]]
 - 
