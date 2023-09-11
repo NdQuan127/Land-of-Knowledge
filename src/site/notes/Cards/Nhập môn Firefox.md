@@ -38,7 +38,7 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 
 ## Addon bá đạo cho firefox
 *updating...*
-- [[External Application - Kết nối Firefox với ứng dụng ngoài để mở/tải video/playlist bằng MPV/yt-dlp\|External Application - Kết nối Firefox với ứng dụng ngoài để mở/tải video/playlist bằng MPV/yt-dlp]]
+- [[+ Encounters/External Application - Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|External Application - Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
 - [[Cards/Violentmonkey-Greasymonkey-Tampermonkey\|Violentmonkey-Greasymonkey-Tampermonkey]]
 - [[Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao\|Sidebery - Quản lý tab dọc với tính tuỳ biến cao]]
 - [[Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM\|Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM]]
