@@ -3,7 +3,7 @@
 ---
 
 up:: [[Atlas/Bí thuật MOC\|Bí thuật MOC]]
-tags:: 
+tags:: #on/bt_chiase 
 
 # Tổng hợp các trang web tải Wallpaper
 
