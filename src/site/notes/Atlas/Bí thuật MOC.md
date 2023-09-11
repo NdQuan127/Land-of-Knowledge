@@ -38,7 +38,7 @@ tags:: #map
 - [[Sources/Phần mềm chuyên trị mất mạng Internet\|Phần mềm chuyên trị mất mạng Internet]]
 - [[Sources/Adobe Photoshop + Remove Tool\|Adobe Photoshop + Remove Tool]]
 - **Tổng hợp về khôi phục dữ liệu** (đang làm)
-- [[+ Encounters/Phần mềm dọn dẹp Reg Organizer\|Phần mềm dọn dẹp Reg Organizer]]
-- [[+ Encounters/Phần mềm vẽ sơ đồ tư duy SimpleMind\|Phần mềm vẽ sơ đồ tư duy SimpleMind]]
+- [[Cards/Phần mềm dọn dẹp Reg Organizer\|Phần mềm dọn dẹp Reg Organizer]]
+- [[Cards/Phần mềm vẽ sơ đồ tư duy SimpleMind\|Phần mềm vẽ sơ đồ tư duy SimpleMind]]
 
 ## [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
