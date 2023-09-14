@@ -29,7 +29,7 @@ user_pref("apz.overscroll.enabled", true);
 user_pref("general.smoothScroll", true);
 user_pref("mousewheel.default.delta_multiplier_y", 275);
 ```
-- *updating...*
+- [[+ Encounters/Tối ưu DNS\|Tối ưu DNS]]
 
 => Vậy là sau khi làm theo các thứ trên anh em sẽ được 1 firefox với tốc độ mà chrome gọi bằng bố 🤪
 *Đây là 2 video so sánh:*
