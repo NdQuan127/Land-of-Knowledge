@@ -8,31 +8,31 @@ tags:: #on/bt_chiase
 # Tối ưu DNS
 Đôi khi mạng chậm cũng có thể do Microsoft trả về CDN ở tận trời Tây, nên sử dụng NextDNS/GoogleDNS (gửi ECS) để Tây nó trả về máy chủ gần Việt Nam, đặc biệt tránh dùng 1.1.1.1 cùi bắp vì nó trả về CDN tận Mỹ cuồng râm, cứ hiểu là 1.1.1.1 chỉ dành cho người Mỹ bản địa.
 
-Đặt DNS Firefox thành NextDNS bằng cách `about:config`:  
+Đặt DNS Firefox thành NextDNS bằng cách `about:config` (anh em cũng có thể vào settings mục DNS để chỉnh cho nhanh):  
 
 |   |   |
 |---|---|
-|network.trr.uri|https://doh3.dns.nextdns.io/75a58e|
+|network.trr.uri|https://doh3.dns.nextdns.io/3b8d79`|
 
 |   |   |
 |---|---|
-|network.trr.custom_uri|https://doh3.dns.nextdns.io/75a58e|
+|network.trr.custom_uri|https://doh3.dns.nextdns.io/3b8d79|
 
 |   |   |
 |---|---|
-|network.trr.mode|2|
+|network.trr.mode|3|
 
   
-Anh em nên sử dụng ID này `https://doh3.dns.nextdns.io/75a58e` (không chặn quảng cáo, tracking) hoặc ID của riêng cá nhân với thiết lập tương đương để tăng tính ổn định cho Firefox bởi uBlock bao khoản chặn quảng cáo rồi, nếu dùng ID có chặn quảng cáo thì sẽ gây lỗi web hay bị phát hiện chặn quảng cáo bởi nhiều trang web khác, **nghĩa là các bạn chỉ dùng NextDNS để lấy ECS kiếm máy chủ gần Việt Nam nhất có thể cho Firefox** **và để chặn các trang độc hại, lừa đảo**, cụ thể:  
+Anh em nên sử dụng ID này `https://doh3.dns.nextdns.io/3b8d79` (không chặn quảng cáo, tracking) hoặc ID của riêng cá nhân với thiết lập tương đương để tăng tính ổn định cho Firefox bởi uBlock bao khoản chặn quảng cáo rồi, nếu dùng ID có chặn quảng cáo thì sẽ gây lỗi web hay bị phát hiện chặn quảng cáo bởi nhiều trang web khác, **nghĩa là các bạn chỉ dùng NextDNS để lấy ECS kiếm máy chủ gần Việt Nam nhất có thể cho Firefox** **và để chặn các trang độc hại, lừa đảo**, cụ thể:  
   
 
 |   |   |
 |---|---|
-|network.trr.uri|https://doh3.dns.nextdns.io/75a58e|
+|network.trr.uri|https://doh3.dns.nextdns.io/3b8d79|
 
 |   |   |
 |---|---|
-|network.trr.custom_uri|https://doh3.dns.nextdns.io/75a58e|
+|network.trr.custom_uri|https://doh3.dns.nextdns.io/3b8d79|
 
 |   |   |
 |---|---|
@@ -114,7 +114,7 @@ Anh em nên sử dụng ID này `https://doh3.dns.nextdns.io/75a58e` (không ch�
 
 |   |   |   |
 |---|---|---|
-|network.trr.default_provider_uri|https://doh3.dns.nextdns.io/75a58e||
+|network.trr.default_provider_uri|https://doh3.dns.nextdns.io/||
 
 |   |   |   |
 |---|---|---|
@@ -169,7 +169,7 @@ Anh em nên sử dụng ID này `https://doh3.dns.nextdns.io/75a58e` (không ch�
 
 |   |   |
 |---|---|
-|network.trr.custom_uri|https://doh3.dns.nextdns.io/75a58e|
+|network.trr.custom_uri|https://doh3.dns.nextdns.io/3b8d79|
 
 |   |   |
 |---|---|
@@ -181,7 +181,7 @@ Anh em nên sử dụng ID này `https://doh3.dns.nextdns.io/75a58e` (không ch�
 
 |   |   |
 |---|---|
-|network.trr.uri|https://doh3.dns.nextdns.io/75a58e|
+|network.trr.uri|https://doh3.dns.nextdns.io/3b8d79|
 
 *Chỉnh không giới hạn dns cache queries:*
 
