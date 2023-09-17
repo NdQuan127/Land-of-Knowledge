@@ -38,13 +38,16 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 
 ## Addon bá đạo cho firefox
 *updating...*
+- [[+ Encounters/Userscript thay vì Addon\|Userscript thay vì Addon]]
 - [[+ Encounters/External Application - Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|External Application - Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
 - [[Cards/Violentmonkey-Greasymonkey-Tampermonkey\|Violentmonkey-Greasymonkey-Tampermonkey]]
 - [[Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao\|Sidebery - Quản lý tab dọc với tính tuỳ biến cao]]
-- [[Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM\|Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM]]
+- [[Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM\|Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM]] *(outdated)*
 - [[Sources/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...\|Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...]]
 - [[Sources/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới\|Search in Sidebar - Search qua sidebar mà ko cần mở tab mới]]
 - [[Sources/Search by Image - Tìm kiếm ảnh, dịch trong ảnh\|Search by Image - Tìm kiếm ảnh, dịch trong ảnh]]
 - [[Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web\|Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web]]
 - [[Cards/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn\|ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn]]
+- [[+ Encounters/Tridactyl - Lướt web bằng bàn phím giống Vimium\|Tridactyl - Lướt web bằng bàn phím giống Vimium]]
+- [[+ Encounters/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế\|FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế]]
 - 
