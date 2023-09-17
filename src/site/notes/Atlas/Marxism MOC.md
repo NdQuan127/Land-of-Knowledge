@@ -3,7 +3,7 @@
 ---
 
 
-up:: [[Atlas/Library\|Library]]
+up:: [[Digital Garden\|Digital Garden]]
 tags:: #map 
 
 # Marxism MOC
