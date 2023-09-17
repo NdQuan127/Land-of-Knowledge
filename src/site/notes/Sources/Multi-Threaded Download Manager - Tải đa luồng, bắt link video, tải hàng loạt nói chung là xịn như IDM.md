@@ -5,7 +5,8 @@
 up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
 tags:: #on/bt_chiase 
 
-# Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM
+# ~~Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM~~
+> **Tình hình là MDM do tác giả đã ngừng update rồi nên là thuật toán tải của thằng này có chút outdate mà lại không ai chịu phát triển nó tiếp. Tuy hiện giờ nó vẫn rất ngon nhưng để lâu dài anh em có thể chuyển sang dùng con Vịt Pede**
 
 ## Hướng dẫn cài MDM  
 Thằng [**Multi-Threaded Download Manager**](https://addons.mozilla.org/en-US/firefox/addon/multithreaded-download-manager/) (**>>>>**[**Bản mod ngon hơn hỗ trợ tải đa luồng Google Drive và nhiều trang hơn**](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-24638856)) này đã test thử, tính năng tải đa luồng như IDM hoạt động nhé, cơ mà mặc định giới hạn 6 luồng (đủ dùng và tốt nhất nên để 6 luồng thậm chí thấp hơn tầm 3-4 luồng sẽ xanh sạch đẹp cho server hơn) bằng với `network.http.max-persistent-connections-per-server` và `network.http.max-persistent-connections-per-proxy` trong about: config vì nó dùng API network của Firefox tải file.
