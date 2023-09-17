@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/marxism-moc/"}
 ---
 
+
 up:: [[Atlas/Library\|Library]]
 tags:: #map 
 
