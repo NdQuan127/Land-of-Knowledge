@@ -12,7 +12,7 @@ tags:: #on/bt_chiase
 
 |   |   |
 |---|---|
-|network.trr.uri|https://doh3.dns.nextdns.io/3b8d79`|
+|network.trr.uri|https://doh3.dns.nextdns.io/3b8d79|
 
 |   |   |
 |---|---|
