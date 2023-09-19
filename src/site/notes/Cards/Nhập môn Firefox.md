@@ -9,6 +9,8 @@ tags:: #on/bt_chiase
 > Để sử dụng Firefox 1 cách pro là 1 việc rất khổ dâm, thế nên bài hướng dẫn sau có lẽ sẽ giúp anh em đỡ khổ dâm hơn phần nào 💪
 
 ## Tối ưu Firefox
+
+> Anh em có thể dùng code sau đây để áp dụng [[+ Encounters/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây\|Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây]]
 - Đầu tiên anh em hãy chọn cho mình 1 bản mod ngon đã: [[Sources/Các bản mod ngon của Firefox\|Các bản mod ngon của Firefox]]
 - [[Cards/uBlock+Auto Tab Discard - Khởi nguồn của sức mạnh!\|uBlock+Auto Tab Discard - Khởi nguồn của sức mạnh!]]
 - Có 1 fact là thằng Windows Defender cố tình đì các browser khác để buff bẩn cho Edge và Firefox là 1 trong những thằng bị đì ác nhất. Vậy giải pháp của chúng ta là: [[Sources/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ\|Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ]]
