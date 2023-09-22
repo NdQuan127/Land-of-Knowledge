@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/encounters/external-application-ket-noi-firefox-voi-ung-dung-ngoai-de-mo-tai-video-playlist-bang-mpv-yt-dlp/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]] 
+up:: [[Cards/Firefox MOC\|Firefox MOC]] 
 tags:: #on/bt_chiase 
 
 # External Application - Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp
