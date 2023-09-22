@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/encounters/toi-uu-dns/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Tối ưu DNS
