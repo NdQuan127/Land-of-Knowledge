@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/tat-ocsp-de-tang-toc-ket-noi-toi-trang-web/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Tắt OCSP để tăng tốc kết nối tới trang web
