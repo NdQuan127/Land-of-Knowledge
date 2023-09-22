@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/violentmonkey-greasymonkey-tampermonkey/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase  
 
 # Violentmonkey-Greasymonkey-Tampermonkey
@@ -14,3 +14,4 @@ So sánh:
 - Tampermoneky có tính tương thích rất cao, tuy nhiên là **mã nguồn đóng**: [https://github.com/Tampermonkey/tampermonkey/issues/1515](https://github.com/Tampermonkey/tampermonkey/issues/1515)
 - Firemonkey là trẻ trâu mới vào làng, rất nhanh và nhẹ nhưng tính tương thích kiểu lúc được lúc không, nên tạm thời cho xuống Thùng Rác
 - Greasemonkey là thủy tổ của tất cả, tính tương thích tàm tạm, tính năng đã lỗi thời
+
