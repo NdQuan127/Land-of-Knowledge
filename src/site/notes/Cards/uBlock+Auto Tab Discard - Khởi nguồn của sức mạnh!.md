@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/u-block-auto-tab-discard-khoi-nguon-cua-suc-manh/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 # uBlock+Auto Tab Discard - Khởi nguồn của sức mạnh!
 ## uBlock Origin
