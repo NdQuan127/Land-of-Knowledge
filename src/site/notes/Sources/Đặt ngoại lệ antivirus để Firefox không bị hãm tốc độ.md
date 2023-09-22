@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/dat-ngoai-le-antivirus-de-firefox-khong-bi-ham-toc-do/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ
