@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/multi-threaded-download-manager-tai-da-luong-bat-link-video-tai-hang-loat-noi-chung-la-xin-nhu-idm/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # ~~Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM~~
