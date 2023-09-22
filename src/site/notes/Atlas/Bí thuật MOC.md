@@ -41,4 +41,4 @@ tags:: #map
 - [[Cards/Phần mềm dọn dẹp Reg Organizer\|Phần mềm dọn dẹp Reg Organizer]]
 - [[Cards/Phần mềm vẽ sơ đồ tư duy SimpleMind\|Phần mềm vẽ sơ đồ tư duy SimpleMind]]
 
-## [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+
