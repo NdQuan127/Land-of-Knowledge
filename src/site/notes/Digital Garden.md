@@ -11,12 +11,19 @@ Tôi hy vọng bạn sẽ tìm được một thứ gì đó ở khu vườn nà
 
 ## MOC
 
+### Philosophy & Politics 📚
 > [!kanban]+
-> - [[Atlas/Bí thuật MOC\|Bí thuật MOC]]
-> 	- ![pxfuel(2).jpg](/img/user/Extras/Images/pxfuel(2).jpg)
-> 	- [[Link\|Card]]
 > - [[Atlas/Marxism MOC\|Marxism MOC]]
-> 	- ![pxfuel.jpg](/img/user/Extras/Images/pxfuel.jpg)
 > 	- [[Link\|Card]]
+
+## Computer 🖥️
+> [!kanban]+ 
+> - [[Cards/Firefox MOC\|Firefox MOC]] 
+> 	- [[Link\|Card]]
+> - [[Atlas/Bí thuật MOC\|Bí thuật MOC]]
+> 	- [[Link\|Card]]
+
+
+
 
 
