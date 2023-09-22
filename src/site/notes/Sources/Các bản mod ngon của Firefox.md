@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/cac-ban-mod-ngon-cua-firefox/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Các bản mod ngon của Firefox
