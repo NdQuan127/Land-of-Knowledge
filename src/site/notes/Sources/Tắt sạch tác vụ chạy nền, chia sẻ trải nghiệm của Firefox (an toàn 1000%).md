@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/tat-sach-tac-vu-chay-nen-chia-se-trai-nghiem-cua-firefox-an-toan-1000/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox (an toàn 1000%)
