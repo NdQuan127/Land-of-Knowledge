@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/encounters/userscript-thay-vi-addon/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Userscript thay vì Addon
@@ -87,4 +87,25 @@ function getCookie(e) {
     }
   }), i && (e.WebSocket = WebSocketProxy)
 })(unsafeWindow);
+```
+
+## Cách sử dụng monkey để nhúng style thay vì tốn 1 addon Stylus
+
+```javaScript
+// ==UserScript==
+// @name        Stylus Stylish
+// @namespace   Stylus Stylish Userscript - Violentmonkey Scripts
+// @include       *://*/*
+// @grant       GM_addStyle
+// @version     1.0
+// @run-at      document-start
+// @author      -
+// @description -
+// ==/UserScript==
+
+GM_addStyle(`
+
+/* Nhồi code CSS vào đây */
+
+`)
 ```
