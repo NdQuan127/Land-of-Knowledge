@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/ep-firefox-luu-cache-tren-ram-ma-khong-can-ram-disk/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Ép Firefox lưu cache trên RAM mà không cần RAMDisk
