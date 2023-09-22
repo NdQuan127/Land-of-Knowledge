@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/nglayout-initialpaint-delay-khien-firefox-render-trang-it-di-giam-tong-tieu-thu-cpu/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU
