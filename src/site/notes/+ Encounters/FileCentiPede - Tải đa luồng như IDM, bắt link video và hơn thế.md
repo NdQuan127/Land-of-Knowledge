@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/encounters/file-centi-pede-tai-da-luong-nhu-idm-bat-link-video-va-hon-the/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế
