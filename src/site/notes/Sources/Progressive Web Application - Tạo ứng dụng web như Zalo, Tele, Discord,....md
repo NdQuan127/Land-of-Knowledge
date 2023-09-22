@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/progressive-web-application-tao-ung-dung-web-nhu-zalo-tele-discord/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...
