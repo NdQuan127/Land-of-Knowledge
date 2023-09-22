@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/search-by-image-tim-kiem-anh-dich-trong-anh/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Search by Image - Tìm kiếm ảnh, dịch trong ảnh
