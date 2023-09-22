@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/search-in-sidebar-search-qua-sidebar-ma-ko-can-mo-tab-moi/"}
 ---
 
-up:: [[Cards/Nhập môn Firefox\|Nhập môn Firefox]]
+up:: [[Cards/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Search in Sidebar - Search qua sidebar mà ko cần mở tab mới
