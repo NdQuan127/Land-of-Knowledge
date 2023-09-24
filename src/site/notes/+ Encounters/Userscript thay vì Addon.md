@@ -109,3 +109,6 @@ GM_addStyle(`
 
 `)
 ```
+
+## Recaptcha Solver
+Vô đây bấm `raw` là cài được vào Monkey:  https://gist.github.com/origamiofficial/2557dd47fb0aaf08e3c298a236bfa14d
