@@ -19,6 +19,7 @@ tags:: #map
 - [[Sources/Tổng hợp các trang web xem phim online\|Tổng hợp các trang web xem phim online]]
 - [[Sources/Tổng hợp các trang web tải phần mềm Portable\|Tổng hợp các trang web tải phần mềm Portable]]
 - [[Sources/Tổng hợp các trang tải file ISO Windows\|Tổng hợp các trang tải file ISO Windows]]
+- [[+ Encounters/Thư viện Udemy của Nghiện +\|Thư viện Udemy của Nghiện +]]
 
 ## Tổng hợp key ngon
 
@@ -41,4 +42,15 @@ tags:: #map
 - [[Cards/Phần mềm dọn dẹp Reg Organizer\|Phần mềm dọn dẹp Reg Organizer]]
 - [[Cards/Phần mềm vẽ sơ đồ tư duy SimpleMind\|Phần mềm vẽ sơ đồ tư duy SimpleMind]]
 
+## Tổng hợp bí thuật cho xiên thủ
 
+> Danh sách chúng nó đây:
+
+- [[+ Encounters/Cách nhận Youtube Prenium 4 tháng miễn phí\|Cách nhận Youtube Prenium 4 tháng miễn phí]]
+- [[+ Encounters/Cách xiên Google One XXX Years\|Cách xiên Google One XXX Years]]
+
+## Tổng hợp các Starred Github Repositories hay ho
+
+> Anh em có thể hiểu đơn giản nó là các software, tools open source hoặc là các tài liệu, video,... hay ho trên Github
+
+- updating...
