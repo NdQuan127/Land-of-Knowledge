@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/firefox-moc/"}
 ---
 
-up:: [[Digital Garden\|Digital Garden]]
+  up:: [[Digital Garden\|Digital Garden]]
 tags:: #map
 
 # Firefox MOC
