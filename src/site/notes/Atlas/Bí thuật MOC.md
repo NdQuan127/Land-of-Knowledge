@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/bi-thuat-moc/"}
 ---
 
-up:: [[Digital Garden\|Digital Garden]]
+up:: [[Home\|Home]]
 tags:: #map 
 
 # Bí thuật MOC
@@ -20,6 +20,7 @@ tags:: #map
 - [[Sources/Tổng hợp các trang web tải phần mềm Portable\|Tổng hợp các trang web tải phần mềm Portable]]
 - [[Sources/Tổng hợp các trang tải file ISO Windows\|Tổng hợp các trang tải file ISO Windows]]
 - [[+ Encounters/Thư viện Udemy của Nghiện +\|Thư viện Udemy của Nghiện +]]
+- [[+ Encounters/Tổng hợp các trang web tải nhạc chất lượng cao\|Tổng hợp các trang web tải nhạc chất lượng cao]]
 
 ## Tổng hợp key ngon
 
@@ -46,11 +47,12 @@ tags:: #map
 
 > Danh sách chúng nó đây:
 
-- [[+ Encounters/Cách nhận Youtube Prenium 4 tháng miễn phí\|Cách nhận Youtube Prenium 4 tháng miễn phí]]
-- [[+ Encounters/Cách xiên Google One XXX Years\|Cách xiên Google One XXX Years]]
+- [[Sources/Cách nhận Youtube Prenium 4 tháng miễn phí\|Cách nhận Youtube Prenium 4 tháng miễn phí]]
+- [[Sources/Cách xiên Google One XXX Years\|Cách xiên Google One XXX Years]]
+- [[Sources/Bí kíp xiên Google One tái bản lần thứ 2\|Bí kíp xiên Google One tái bản lần thứ 2]]
 
 ## Tổng hợp các Starred Github Repositories hay ho
 
 > Anh em có thể hiểu đơn giản nó là các software, tools open source hoặc là các tài liệu, video,... hay ho trên Github
 
-- updating...
+- [[Tổng hợp các Starred Github Repositories \|Tổng hợp các Starred Github Repositories ]]
