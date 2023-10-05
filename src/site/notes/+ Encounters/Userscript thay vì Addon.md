@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/encounters/userscript-thay-vi-addon/"}
 ---
 
-up:: [[Cards/Firefox MOC\|Firefox MOC]]
+up:: [[Atlas/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Userscript thay vì Addon
@@ -112,3 +112,32 @@ GM_addStyle(`
 
 ## Recaptcha Solver
 Vô đây bấm `raw` là cài được vào Monkey:  https://gist.github.com/origamiofficial/2557dd47fb0aaf08e3c298a236bfa14d
+
+## Tổng hợp userscript 
+[https://greasyfork.org/vi/scripts/438684-pagetual](https://greasyfork.org/vi/scripts/438684-pagetual)  
+[https://greasyfork.org/en/scripts/419215-自动无缝翻页](https://greasyfork.org/en/scripts/419215-%E8%87%AA%E5%8A%A8%E6%97%A0%E7%BC%9D%E7%BF%BB%E9%A1%B5)  
+[https://github.com/TagoDR/MangaOnlineViewer/](https://github.com/TagoDR/MangaOnlineViewer/)  
+[https://github.com/AdguardTeam/AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)  
+[https://greasyfork.org/en/scripts/387969-twitterᴾˡᵘˢ-view-twitter-origin-images](https://greasyfork.org/en/scripts/387969-twitter%E1%B4%BE%CB%A1%E1%B5%98%CB%A2-view-twitter-origin-images)  
+[https://greasyfork.org/en/scripts/443342-telegram-photo-protection-remover](https://greasyfork.org/en/scripts/443342-telegram-photo-protection-remover)  
+[https://github.com/AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker)  
+[https://greasyfork.org/en/scripts/406535-instagram-download-button](https://greasyfork.org/en/scripts/406535-instagram-download-button)  
+[https://greasyfork.org/en/scripts/438894-timerhooker-english-version](https://greasyfork.org/en/scripts/438894-timerhooker-english-version)  
+[https://github.com/AdvMaple/bilibili-subtitle-download-plugin](https://github.com/AdvMaple/bilibili-subtitle-download-plugin)  
+[https://github.com/IceWreck/Page-Visibility-User-Script/blob/master/pagevisibilityuserscript.js](https://github.com/IceWreck/Page-Visibility-User-Script/blob/master/pagevisibilityuserscript.js)  
+[https://greasyfork.org/vi/scripts/423001-twitter-media-downloader](https://greasyfork.org/vi/scripts/423001-twitter-media-downloader)  
+[https://greasyfork.org/en/scripts/381682-html5视频播放器增强脚本](https://greasyfork.org/en/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)  
+[https://greasyfork.org/en/scripts/16323-youtube-player-controls](https://greasyfork.org/en/scripts/16323-youtube-player-controls)  
+[https://github.com/abpvn/abpvn/tree/master/script](https://github.com/abpvn/abpvn/tree/master/script)  
+[https://greasyfork.org/en/scripts/24204-picviewer-ce](https://greasyfork.org/en/scripts/24204-picviewer-ce)  
+[https://github.com/Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)  
+[https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy)  
+[https://greasyfork.org/en/scripts/33005-direct-download-from-google-play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play)  
+[https://github.com/insin/tweak-new-twitter/](https://github.com/insin/tweak-new-twitter/)  
+[https://greasyfork.org/en/scripts/421603-magic-userscript-show-site-all-userjs](https://greasyfork.org/en/scripts/421603-magic-userscript-show-site-all-userjs)  
+[https://greasyfork.org/en/scripts/436115-return-youtube-dislike](https://greasyfork.org/en/scripts/436115-return-youtube-dislike)  
+[https://gist.github.com/origamiofficial/2557dd47fb0aaf08e3c298a236bfa14d](https://gist.github.com/origamiofficial/2557dd47fb0aaf08e3c298a236bfa14d)  
+[https://greasyfork.org/vi/scripts/468182-google-colab-auto-reconnect](https://greasyfork.org/vi/scripts/468182-google-colab-auto-reconnect)  
+[https://github.com/the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)  
+[https://greasyfork.org/en/scripts/8128-youtube-h-264](https://greasyfork.org/en/scripts/8128-youtube-h-264)  
+[https://github.com/lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript)
