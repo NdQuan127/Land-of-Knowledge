@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/bat-punycode-de-mien-nhiem-voi-ten-mien-gia-mao/"}
 ---
 
-up:: [[Cards/Firefox MOC\|Firefox MOC]]
+up:: [[Atlas/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Bật punycode để miễn nhiễm với tên miền giả mạo
