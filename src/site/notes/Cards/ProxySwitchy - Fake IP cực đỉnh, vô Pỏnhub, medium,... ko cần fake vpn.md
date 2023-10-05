@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/proxy-switchy-fake-ip-cuc-dinh-vo-ponhub-medium-ko-can-fake-vpn/"}
 ---
 
-up:: [[Cards/Firefox MOC\|Firefox MOC]]
+up:: [[Atlas/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn
