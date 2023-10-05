@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/sidebery-quan-ly-tab-doc-voi-tinh-tuy-bien-cao/"}
 ---
 
-up:: [[Cards/Firefox MOC\|Firefox MOC]]
+up:: [[Atlas/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase 
 
 # Sidebery - Quản lý tab dọc với tính tuỳ biến cao
