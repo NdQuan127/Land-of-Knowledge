@@ -3,7 +3,7 @@
 ---
 
 
-up:: [[Digital Garden\|Digital Garden]]
+up:: [[Home\|Home]]
 tags:: #map 
 
 # Marxism MOC
@@ -13,7 +13,7 @@ Nơi lưu trữ những kiến thức về Marxism
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844\|Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844]]           |
 | [[Cards/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô\|Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô]]                                                                                                                                                 |
-| [[+ Encounters/CHỦ NGHĨA MARX ĐI VỀ ĐÂU\|CHỦ NGHĨA MARX ĐI VỀ ĐÂU]]                                                                                                                                                                                  |
+| [[Sources/CHỦ NGHĨA MARX ĐI VỀ ĐÂU\|CHỦ NGHĨA MARX ĐI VỀ ĐÂU]]                                                                                                                                                                                       |
 | [[Sources/Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách\|Chủ nghĩa tự do và Chủ nghĩa xã hội - Hai tử thù hay Hai anh em xa cách]]                                                                                         |
 | [[Cards/Cương lĩnh năm 1991\|Cương lĩnh năm 1991]]                                                                                                                                                                                                   |
 | [[Sources/Kinh tế Liên Xô thời Stalin\|Kinh tế Liên Xô thời Stalin]]                                                                                                                                                                                 |
