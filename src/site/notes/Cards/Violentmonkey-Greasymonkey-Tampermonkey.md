@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/violentmonkey-greasymonkey-tampermonkey/"}
 ---
 
-up:: [[Cards/Firefox MOC\|Firefox MOC]]
+up:: [[Atlas/Firefox MOC\|Firefox MOC]]
 tags:: #on/bt_chiase  
 
 # Violentmonkey-Greasymonkey-Tampermonkey
