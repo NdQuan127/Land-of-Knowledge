@@ -5,7 +5,7 @@
 up:: [[Atlas/Firefox MOC\|Firefox MOC]] 
 tags:: #on/firefox 
 
-# Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp
+# Kết nối Firefox với ứng dụng ngoài để mở, tải video, playlist bằng MPV,yt-dlp
 > Cái này để setup thực ra khó vãi l** nên anh em cố gắng đọc kỹ đừng bỏ sót chỗ nào 🙂
 
 > Nhiều anh em sẽ thấy cái này cài đặt phiền phức vl nên sẽ ngại làm và đồng thời vì ngại làm nên cũng ko có cơ hội tiếp xúc với tính năng xịn xò con bò này ![:big_smile:](https://statics.voz.tech/styles/next/xenforo/smilies/popopo/big_smile.png?v=01 "big_smile    :big_smile:") 
