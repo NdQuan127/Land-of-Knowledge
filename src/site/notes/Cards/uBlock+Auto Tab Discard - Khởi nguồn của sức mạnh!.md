@@ -18,9 +18,14 @@ Cũng như tăng cường sự riêng tư vì các tracker bị chặn luôn, kh
 > Sau đây là những filter (bộ lọc) hay cho uBlock mà không gây lỗi web, bởi nó là bộ lọc `tính năng` hoặc chỉ dành cho một `đối tượng` nhất định nào đó:
 
 - Chặn quảng cáo với Facebook (đối tượng): `https://raw.githubusercontent.com/ethan-xd/ethan-xd.github.io/master/fb.txt`
-- Xem các trang đòi trả tiền không tốn xu nào với Bypass Paywall Clean (tính năng): `https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt`
-- Nhảy link rút gọn, link theo dõi người dùng với LegitimateURLShortener (tính năng): `https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt`
+~~- Xem các trang đòi trả tiền không tốn xu nào với Bypass Paywall Clean (tính năng): `https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt`~~
+- Nhảy link rút gọn,link theo dõi người dùng với LegitimateURLShortener (tính năng):`https://gitlab.com/DandelionSprout/adfilt/-/raw/master/LegitimateURLShortener.txt`
 - [**Loại bỏ các trang web trùng lặp khỏi kết quả tìm kiếm Google, Duck, Bing...**](https://github.com/quenhus/uBlock-Origin-dev-filter) (đối tượng): `https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt`
+- (Chặn) [PrivacyEnhanced](https://github.com/stephenhawk8054/PrivacyExtended) cùng Adguard Privacy hay EasyPrivacy do [@Fioren](https://voz.vn/u/1680514/) giới thiệu
+- (Tính năng) [Không Cần Đăng Nhập](https://github.com/DandelionSprout/adfilt/blob/master/BrowseWebsitesWithoutLoggingIn.txt) - Ẩn hết các hộp thoại bắt đăng nhập như Quora
+- (Tính năng) [Anti-Paywall Cleaner](https://github.com/liamengland1/miscfilters/blob/master/antipaywall.txt) - Dùng thay thế Bypass Paywall Clean
+- (Tính năng) [Bộ lọc trị web ngờ u ngu của tác giả Betterfox](https://github.com/yokoffing/filterlists/blob/main/annoyance_list.txt) - Dùng để sửa lại mấy trang web bị hỏng... do quản trị viên không có não
+- (Đối tượng) [Dọn sạch rác rưởi Youtube](https://github.com/yokoffing/filterlists/blob/main/youtube_clear_view.txt) - Xóa những thứ gây mất tập trung khi xem Youtube, bình luận khi xem stream, chặn các trang lừa đảo phổ biến kiểu Elon Musk, Tesla... 
 
 > **Cách thêm filter:**
 
@@ -68,6 +73,7 @@ Gần như giống nhau, thích dùng gì thì dùng, nhưng uBlock hơn ở hi�
 
 ## Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU
 - [I] Firefox hay Chrome đi chăng nữa thì từ khi lên multi-process (đa tiến trình) khi dùng sẽ mở lên rất nhiều process kiểu firefox. Exe hay chrome. Exe, điều này không tốt cả về mặt hiệu năng lẫn bảo mật, mà tính năng unload tab có sẵn trong Firefox rất tệ. Nên việc cài một addon dạng unload tab như Auto Tab Discard để tắt những tab không dùng đi bạn sẽ **tiết kiệm được rất nhiều RAM và CPU** do các trang web chạy ngầm gây ra, ngoài ra khi nội dung web bị loại bỏ khỏi bộ nhớ thì kể cả lỗ hổng bảo mật mang tên Spectre and Meltdown cũng bó tay chịu trói.
+
 ### Cách unload tab super ultra vip pro 😀
 - Vào `about:memory` rồi chọn GC để Firefox giải phóng bớt RAM thừa đi
 - Vào Task Manager thi thoảng thấy có cái process `firefox.exe` nào chiếm RAM thì End Process đi, chú ý không động vào cái firefox.exe cha, chỉ mấy thằng con thôi.
