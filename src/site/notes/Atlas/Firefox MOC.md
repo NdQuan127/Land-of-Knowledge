@@ -18,19 +18,9 @@ tags:: #map
 - [[Sources/Ép Firefox lưu cache trên RAM mà không cần RAMDisk\|Ép Firefox lưu cache trên RAM mà không cần RAMDisk]]
 - [[Sources/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox (an toàn 1000%)\|Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox (an toàn 1000%)]]
 - [[Sources/Tắt OCSP để tăng tốc kết nối tới trang web\|Tắt OCSP để tăng tốc kết nối tới trang web]]
-- [Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong]
-```javaScript
-user_pref("network.early-hints.enabled", true);  
-user_pref("network.early-hints.preconnect.enabled", true); 
-user_pref ("network. Early-hints. Preconnect. Max_connections", 20); 
-```
+- [[+ Encounters/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong\|Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong]]
 - [[Sources/Bật punycode để miễn nhiễm với tên miền giả mạo\|Bật punycode để miễn nhiễm với tên miền giả mạo]]
-- [Tối ưu cuộn mượt]
-```javascript
-user_pref("apz.overscroll.enabled", true);
-user_pref("general.smoothScroll", true);
-user_pref("mousewheel.default.delta_multiplier_y", 275);
-```
+- [[+ Encounters/Tối ưu cuộn mượt\|Tối ưu cuộn mượt]]
 - [[Cards/Tối ưu DNS\|Tối ưu DNS]]
 - *updating...*
 => Vậy là sau khi làm theo các thứ trên anh em sẽ được 1 firefox với tốc độ mà chrome gọi bằng bố 🤪
@@ -40,9 +30,8 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 
 ## Addon bá đạo cho firefox
 *updating...*
-- [[+ Encounters/Userscript thay vì Addon\|Userscript thay vì Addon]]
 - [[+ Encounters/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
-- [[Cards/Violentmonkey-Greasymonkey-Tampermonkey\|Violentmonkey-Greasymonkey-Tampermonkey]]
+- [[Cards/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey\|Userscript cho Violentmonkey-Greasymonkey-Tampermonkey]]
 - [[Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao\|Sidebery - Quản lý tab dọc với tính tuỳ biến cao]]
 - [[Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM\|Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM]] *(outdated)*
 - [[Sources/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...\|Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,...]]
@@ -52,4 +41,9 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 - [[Cards/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn\|ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn]]
 - [[Sources/Tridactyl - Lướt web bằng bàn phím giống Vimium\|Tridactyl - Lướt web bằng bàn phím giống Vimium]]
 - [[Sources/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế\|FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế]]
-- 
+- *updating...*
+
+## Kiến thức chung
+
+> Phần này nhằm giới thiệu cho anh em 1 số kiến thức thú vì liên quan đến trình duyệt
+
