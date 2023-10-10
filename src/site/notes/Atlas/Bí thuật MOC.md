@@ -21,6 +21,8 @@ tags:: #map
 - [[Sources/Tổng hợp các trang tải file ISO Windows\|Tổng hợp các trang tải file ISO Windows]]
 - [[+ Encounters/Thư viện Udemy của Nghiện +\|Thư viện Udemy của Nghiện +]]
 - [[+ Encounters/Tổng hợp các trang web tải nhạc chất lượng cao\|Tổng hợp các trang web tải nhạc chất lượng cao]]
+- [[+ Encounters/Tổng hợp các trang SMS, Phone verify\|Tổng hợp các trang SMS, Phone verify]]
+- 
 
 ## Tổng hợp key ngon
 
