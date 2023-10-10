@@ -105,7 +105,7 @@ function getCookie(e) {
 
 >  Vô đây bấm `raw` là cài được vào Monkey:  https://gist.github.com/origamiofficial/2557dd47fb0aaf08e3c298a236bfa14d
 
-## Tổng hợp userscript của @fioren
+## Tổng hợp userscript của  @fioren
 [https://greasyfork.org/vi/scripts/438684-pagetual](https://greasyfork.org/vi/scripts/438684-pagetual)  
 [https://greasyfork.org/en/scripts/419215-自动无缝翻页](https://greasyfork.org/en/scripts/419215-%E8%87%AA%E5%8A%A8%E6%97%A0%E7%BC%9D%E7%BF%BB%E9%A1%B5)  
 [https://github.com/TagoDR/MangaOnlineViewer/](https://github.com/TagoDR/MangaOnlineViewer/)  
