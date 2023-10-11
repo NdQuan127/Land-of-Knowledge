@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/encounters/mpv/"}
 ---
 
-up:: [[+ Encounters/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
+up:: [[Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
 tags:: #on/firefox
 
 # MPV
