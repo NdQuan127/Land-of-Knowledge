@@ -17,7 +17,7 @@ tags:: #on/firefox
 
 > **Chú ý: Nếu vị trí của MPV ở chỗ khác thì tự chỉnh nhé.**
 
-> Anh em nếu thấy `handler.json.corrupt` thì nhớ xoá đi để tránh xung đột
+> Anh em nếu thấy có 1 file tên tựa tựa là `handler.json.corrupt` thì nhớ xoá đi để tránh xung đột
 ## Userscript Handlers
 
 Cập nhập Handlers dành cho MPV, hỗ trợ thêm rất nhiều tính năng khi so sánh với *phiên bản trước đó*, cách sử dụng cũng nhẹ nhàng hơn ![:D](https://statics.voz.tech/styles/next/xenforo/smilies/popo/biggrin.png?v=01 "Big grin    :D") 
