@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/cai-uosc-cho-mpv-de-lay-tinh-nang-chuyen-chat-luong-video-playlist-subtitle/"}
 ---
 
-up:: [[+ Encounters/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
+up:: [[Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
 tags:: #on/firefox 
 
 # Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)
