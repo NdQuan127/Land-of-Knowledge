@@ -117,6 +117,8 @@ Nếu muốn follow thì có thể tham khảo thêm cái extension [Devo](https
 
 - [In JavaScript we trust](https://github.com/yeungon/In-JavaScript-we-trust): cái này là list gần 100 câu trắc nghiệm về JS
 
+- [CS Video Courses](https://github.com/Developer-Y/cs-video-courses): cái này là tổng hợp các khoá học liên quan đến *Computer Science*
+
 - *updating*
 
 ## Awesome List
