@@ -10,7 +10,7 @@ tags:: #on/firefox
 
 > Nhiều anh em sẽ thấy cái này cài đặt phiền phức vl nên sẽ ngại làm và đồng thời vì ngại làm nên cũng ko có cơ hội tiếp xúc với tính năng xịn xò con bò này ![:big_smile:](https://statics.voz.tech/styles/next/xenforo/smilies/popopo/big_smile.png?v=01 "big_smile    :big_smile:") 
 > Thế nên để cho dễ dàng hơn anh em có thể dùng bản mpv mình đang dùng hiện tại đã được cài đặt chỉnh chọt hết rồi
-> Link bản *ăn liền* tải ở [đây](https://drive.google.com/file/d/1C6LvB2728cezRh5StPP-XPWpQGOyJBEi/view?usp=sharing)
+> Link bản *ăn liền* tải ở [đây](https://drive.google.com/file/d/1f-mihrcHTZGrnDoNmMXFulrqHV7HWoPl/view?usp=sharing)
 
 **Ý tưởng:** Kết nối Firefox với các ứng dụng bên ngoài, mở rộng khả năng của Firefox ra thành gần như vô hạn, nó có thể làm được những điều sau dựa trên thời gian thử nghiệm ngắn ngủi của mình:  
 
