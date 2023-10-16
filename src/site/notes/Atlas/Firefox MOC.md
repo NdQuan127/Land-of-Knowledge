@@ -9,7 +9,7 @@ tags:: #map
 
 > Trước khi vô các phần sau, anh em phải hiểu [[+ Encounters/Tại sao lại là Firefox\|Tại sao lại là Firefox]]
 
-> Để sử dụng Firefox 1 cách pro là 1 việc rất khổ dâm, thế nên bài hướng dẫn sau có lẽ sẽ giúp anh em đỡ khổ dâm hơn phần nào 💪
+> Để sử dụng Firefox 1 cách pro là 1 việc rất khổ dâm, thế nên bài hướng dẫn sau có lẽ sẽ giúp anh em đỡ khổ dâm hơn phần nào 
 ## Tối ưu Firefox
 
 > Anh em có thể dùng code sau đây để áp dụng [[Sources/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây\|Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây]]
@@ -55,4 +55,4 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 - [[+ Encounters/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard\|Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard]]
 - [[Cards/Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào\|Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào]]
 - [[+ Encounters/DNS là cái chi mô răng rứa\|DNS là cái chi mô răng rứa]]
-- [[+ Encounters/Bí kíp tự tìm và fix bug Firefox\|Bí kíp tự tìm và fix bug Firefox]]
+- [[+ Encounters/Hướng dẫn tự fix bug Firefox\|Hướng dẫn tự fix bug Firefox]]
