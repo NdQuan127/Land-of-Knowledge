@@ -18,8 +18,12 @@ Tôi hy vọng bạn sẽ tìm được một thứ gì đó ở khu vườn nà
 > - [[Atlas/Nationalism MOC\|Nationalism MOC]]
 > 	- ![Imagined_Comm(1).webp](/img/user/Extras/Images/Imagined_Comm(1).webp)
 > 	- [[Link\|Card]]
+> - [[+ Encounters/International Relations MOC\|International Relations MOC]]
+> 	- ![international-relations-1160x619(1).png](/img/user/Extras/Images/international-relations-1160x619(1).png)
+> 	- [[Link\|Card]]
 
-## Computer 🖥️
+
+### Computer 🖥️
 > [!kanban]+ 
 > - [[Atlas/Firefox MOC\|Firefox MOC]] 
 > 	- ![1023688(1).jpg](/img/user/Extras/Images/1023688(1).jpg)
@@ -27,6 +31,17 @@ Tôi hy vọng bạn sẽ tìm được một thứ gì đó ở khu vườn nà
 > - [[Atlas/Bí thuật MOC\|Bí thuật MOC]]
 > 	- ![pxfuel(2).jpg](/img/user/Extras/Images/pxfuel(2).jpg)
 > 	- [[Link\|Card]]
+> - [[+ Encounters/Obsidian MOC\|Obsidian MOC]]
+> 	- ![NMLqtTg(1).png](/img/user/Extras/Images/NMLqtTg(1).png)
+> 	- [[Link\|Card]]
 
+### Books
+> [!kanban]+ 
+> - [[Atlas/Expose Books and Authors MOC\|Expose Books and Authors MOC]] 
+> 	- ![pp,840x830-pad,1000x1000,f8f8f8.u13(1).jpg](/img/user/Extras/Images/pp,840x830-pad,1000x1000,f8f8f8.u13(1).jpg)
+> 	- [[Link\|Card]]
+> - [[+ Encounters/Kiến thức căn bản về sách\|Kiến thức căn bản về sách]] 
+> 	- ![oldbooks(1)(2).jpg](/img/user/Extras/Images/oldbooks(1)(2).jpg)
+> 	- [[Link\|Card]]
 
 
