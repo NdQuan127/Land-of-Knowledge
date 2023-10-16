@@ -16,6 +16,8 @@ tags:: #on/firefox
 	- Có cài Decentaleyes hoặc LocalCDN
 => Thì cứ đè đầu mấy thằng này ra mà xử lý trước.
 
+- **Nếu không cài 2 thằng trên thì:**
+	- Vào `about:profile` -> Tạo 1 profile mới -> Mở profile đấy lên kiểm tra xem web còn lỗi không ?
 - **Nếu mà không bị lỗi ở profile mới mà profile đang dùng bị có 2 nguyên nhân:**
 	- Addon gây ra: Vào `about:profiles` và Restart with addon disabled, được thì do addon thử tắt từng cái đi
 	- `about:config` gây ra: `about:support` Open Profile Folder, "tắt Firefox đi" (phải làm), tìm file prefs.js rồi đổi tên nó thành prefs2.js rồi thử lại, nếu bị do chỉnh sửa `about:config` gần đây.
