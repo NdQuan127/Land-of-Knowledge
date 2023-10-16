@@ -142,7 +142,7 @@ Cách sử dụng (được cho cả Android, ấn vào biểu tượng con kh�
 - Vào trang web cần chỉnh font
 - Chọn `Set TextZoom Auto` và đặt kích cỡ (mặc định 20)
 
-```javaScript
+```javaScript 
 // ==UserScript==
 // @name        TextZoomAuto
 // @namespace   TextZoomAuto
