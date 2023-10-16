@@ -22,6 +22,7 @@ Nơi lưu trữ những kiến thức về Marxism
 | [[Sources/Một vài suy nghĩ của 1 maxist vô định giữa thời đại này\|Một vài suy nghĩ của 1 maxist vô định giữa thời đại này]]                                                                                                                         |
 | [[Sources/Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam\|Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam]] |
 | [[Sources/Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn\|Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn]]                                                                                             |
+| [[Sources/Sử tính và thiêng tính\|Sử tính và thiêng tính]]                                                                                                                                                                                           |
 | [[Cards/Tôi sẽ tát vô mặt bạn và hét lên rằng Marxism VÔ TỘI\|Tôi sẽ tát vô mặt bạn và hét lên rằng Marxism VÔ TỘI]]                                                                                                                                 |
 | [[Cards/Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”\|Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”]]                                                                                                             |
 
