@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/mot-bai-viet-an-tuong-ve-lien-xo-thoi-stalin/"}
 ---
 
-up:: [[Atlas/Soviet Union History\|Soviet Union History]] [[Atlas/Marxism MOC\|Marxism MOC]]
+up:: [[Soviet Union History\|Soviet Union History]] [[Atlas/Marxism MOC\|Marxism MOC]]
 tags:: #on/history #marxism 
 
 # Một bài viết ấn tượng về Liên Xô thời Stalin
