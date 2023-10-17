@@ -23,7 +23,7 @@ Tham khảo: [[+ Encounters/Sự khác biệt của uBlock Firefox vs Chrome vs 
 Đó là Privacy Sandbox, một tính năng được quảng cáo là giúp loại bỏ 3rd party cookie, cơ mà các **trình duyệt như Safari hay Firefox đều có phương pháp trị dạng cookie này** (**với Safari là tắt hoàn toàn**, còn **Firefox thì cô lập bằng Total Cookie Protection**) nên **việc Chrome vẫn còn lưu luyến với 3rd party cookie là do họ muốn Chrome hỗ trợ quảng cáo tốt hơn** (đây là mình giải thích cho hiểu tại sao hoàn toàn có thể tắt 3rd party cookie mà Chrome không làm).  
   
 Câu hỏi là liệu Google có ép Firefox phải thêm tính năng này vào vì trước Firefox đã phải thêm Widevine (WebDRM, cứ vào Netflix, Spotify bằng Floorp/Ungoogled/ Cromite sẽ hiểu) rồi ? Bởi nên nhớ tiền mua sữa cho con của các kỹ sư Mozilla 500 củ đô la / 1 năm là do Google trả.
-![image.png](/img/user/Extras/Images/image.png)
+![image.png|undefined](/img/user/Extras/Images/image.png)
 
 > Tham khảo:
 [https://arstechnica.com/gadgets/202...tform-the-privacy-sandbox-launches-in-chrome/](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)  
