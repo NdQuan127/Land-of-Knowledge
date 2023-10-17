@@ -26,4 +26,4 @@ Trong bối cảnh mới, có những câu hỏi mang tính thời sự cần ph
 
 Marx đã báo động chúng ta về vai trò của ý thức hệ cũng như những hệ lụy của nó, và tất nhiên chủ nghĩa Marx cũng không ngoại lệ. Bất kỳ một ý thức hệ khuôn định nội tâm của chúng ta theo khuynh hướng tán đồng một cách thuần nhất với một hệ thống kinh tế - chính trị - xã hội hiện hành theo cung cách bù trừ lợi ích hay ổn định trật tự tinh thần, thì một ý thức hệ như vậy chỉ thể hiện một sức ì, một sự bảo thủ diệt vong chứ không phải là một tiến trình cách mạng liên tục mà Marx mong muốn.
 
-![368257879_168081792970966_5376494174990493338_n.jpg](/img/user/Extras/Images/368257879_168081792970966_5376494174990493338_n.jpg)
+![368257879_168081792970966_5376494174990493338_n.jpg|undefined](/img/user/Extras/Images/368257879_168081792970966_5376494174990493338_n.jpg)
