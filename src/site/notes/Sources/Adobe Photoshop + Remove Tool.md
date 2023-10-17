@@ -15,12 +15,12 @@ Công cụ này mạnh kinh người, nếu để bọn xấu dùng để lột 
 
 - Ảnh gốc
 
-![Pasted image 20230809221507.png](/img/user/Extras/Images/Pasted%20image%2020230809221507.png)
+![Pasted image 20230809221507.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230809221507.png)
 
 
 - Sau khi dùng Remove Tool 🤡
 
-![Pasted image 20230809221702.png](/img/user/Extras/Images/Pasted%20image%2020230809221702.png)
+![Pasted image 20230809221702.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230809221702.png)
 
 
 > Link tải tại **[đây](https://justpaste.it/bcfw1)** nhé.
