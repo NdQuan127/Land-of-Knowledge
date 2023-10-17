@@ -11,7 +11,7 @@ tags:: #on/bt_chiase
 
 Đầu tiên phải kể đến, đây là một chính sách ưu đãi của Google dành cho 1 số dòng thiết bị Samsung hiện hành, và hướng dẫn này được làm trên giả lập máy Samsung Galaxy Z Flip 5/ Samsung Tab S9 Series, sẽ có nhiều dòng máy có nhưng hiện tại mình chỉ test trên con này ((đính kèm danh sách thiết bị nhận được ưu đãi như hình dưới) nếu bạn đang sở hữu dòng máy này thì bao nhận, log app Youtube là có. Còn ai chưa có thì làm theo hướng dẫn sau của mình nhé!
 
-![https __prod-files-secure.s3.us-west-2.amazonaws.com_5c961dfb-88b0-4b90-9fe8-c22b35d25782_29a52981-db60-433d-918a-a59ee078a14c_Untitled.png](/img/user/Extras/Images/https%20__prod-files-secure.s3.us-west-2.amazonaws.com_5c961dfb-88b0-4b90-9fe8-c22b35d25782_29a52981-db60-433d-918a-a59ee078a14c_Untitled.png)
+![https __prod-files-secure.s3.us-west-2.amazonaws.com_5c961dfb-88b0-4b90-9fe8-c22b35d25782_29a52981-db60-433d-918a-a59ee078a14c_Untitled.png|undefined](/img/user/Extras/Images/https%20__prod-files-secure.s3.us-west-2.amazonaws.com_5c961dfb-88b0-4b90-9fe8-c22b35d25782_29a52981-db60-433d-918a-a59ee078a14c_Untitled.png)
 
 1/ Bạn cần có 1 tài khoản của Samsung, link đăng ký:
 Lưu ý cần đăng ký thông qua Tài khoản Google, xong bạn tạo mật khẩu trên tài khoản đó.
