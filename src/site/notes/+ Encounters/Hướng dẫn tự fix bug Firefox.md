@@ -18,6 +18,7 @@ tags:: #on/firefox
 
 - **Nếu không cài 2 thằng trên thì:**
 	- Vào `about:profile` -> Tạo 1 profile mới -> Mở profile đấy lên kiểm tra xem web còn lỗi không ?
+
 - **Nếu mà không bị lỗi ở profile mới mà profile đang dùng bị có 2 nguyên nhân:**
 	- Addon gây ra: Vào `about:profiles` và Restart with addon disabled, được thì do addon thử tắt từng cái đi
 	- `about:config` gây ra: `about:support` Open Profile Folder, "tắt Firefox đi" (phải làm), tìm file prefs.js rồi đổi tên nó thành prefs2.js rồi thử lại, nếu bị do chỉnh sửa `about:config` gần đây.
@@ -42,14 +43,14 @@ tags:: #on/firefox
 	- Open Profile Folder
 	- **Tắt Firefox**
 	- Copy những file sau **(nếu không thấy cứ bỏ qua)**:
-	- `places.sqlite` (bookmark+history)
-	- `cookies.sqlite` (đăng nhập)
-	- `cert9.db` + `key4.db` + `logins.json` (mật khẩu)
-	- `extension-preferences.json` + `extensions.json` + `extension-settings.json` + thư mục `extensions` (addon)
-	- `search.json.mozlz4` (bộ công cụ tìm kiếm)
-	- `prefs.js` (`about:config`)
-	- Ngoài ra nếu muốn giữ tùy chỉnh addon *(không dám chắc 100%)*: Copy thư mục `storage` *(tốt nhất nếu không bận thì các thím nên tự tuỳ chỉnh lại addon bằng cách vào profile bị hỏng rồi vô từng addon như violent monkey, ublock,... rồi export data ra rồi lại import lại thì sẽ đỡ lỗi hơn)*
-	- Nếu muốn giữ giao diện: Copy thư mục `chrome`
+		- `places.sqlite` (bookmark+history)
+		- `cookies.sqlite` (đăng nhập)
+		- `cert9.db` + `key4.db` + `logins.json` (mật khẩu)
+		- `extension-preferences.json` + `extensions.json` + `extension-settings.json` + thư mục `extensions` (addon)
+		- `search.json.mozlz4` (bộ công cụ tìm kiếm)
+		- `prefs.js` (`about:config`)
+		- Ngoài ra nếu muốn giữ tùy chỉnh addon *(không dám chắc 100%)*: Copy thư mục `storage` *(tốt nhất nếu không bận thì các thím nên tự tuỳ chỉnh lại addon bằng cách vào profile bị hỏng rồi vô từng addon như violent monkey, ublock,... rồi export data ra rồi lại import lại thì sẽ đỡ lỗi hơn)*
+		- Nếu muốn giữ giao diện: Copy thư mục `chrome`
 
 > Tạo profile mới bằng cách vào `about:profiles` -> Create a new profile -> Chọn thư mục -> Launch profile -> `about:support` -> Open Profile Folder -> Tắt Firefox -> Paste vào.  
   
