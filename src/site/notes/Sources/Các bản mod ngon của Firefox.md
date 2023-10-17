@@ -83,6 +83,6 @@ Bản Firefox mod của tác giả người Nhật mới nổi thời gian gần
 - Và nhiều tùy chỉnh nhỏ khác nữa rất khó liệt kê hết vì nói chung nó nằm trong Settings ấy...
 
 **Chú ý:** [**Các bạn nên chỉnh lại `about:config` của Floorp để không bị loophole WebRTC, sẽ khiến tải một số trang chậm như Chat.Zalo.me**](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-27472709)  
-![1691545236406.webp](/img/user/Extras/Images/1691545236406.webp)
+![1691545236406.webp|undefined](/img/user/Extras/Images/1691545236406.webp)
 **Download:** [https://github.com/Floorp-Projects/Floorp/releases](https://github.com/Floorp-Projects/Floorp/releases)
 
