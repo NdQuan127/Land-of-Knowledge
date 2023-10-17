@@ -13,8 +13,8 @@ tags:: #on/firefox
     - Chọn: `Toolbar button` và `Link context`
     - Save.
 - Click vào nút EA ở toolbar, *một cửa sổ hiện ra như bên dưới, làm theo hướng dẫn tải file windows. Zip rồi chạy install. Bat để cài trình kết nối Firefox với ứng dụng bên ngoài của hệ điều hành:*
-![Pasted image 20230902230709.png](/img/user/Extras/Images/Pasted%20image%2020230902230709.png)
-![Pasted image 20230902230727.png](/img/user/Extras/Images/Pasted%20image%2020230902230727.png)
-![Pasted image 20230902230749.png](/img/user/Extras/Images/Pasted%20image%2020230902230749.png)
-![Pasted image 20230902231336.png](/img/user/Extras/Images/Pasted%20image%2020230902231336.png)
+![Pasted image 20230902230709.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230902230709.png)
+![Pasted image 20230902230727.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230902230727.png)
+![Pasted image 20230902230749.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230902230749.png)
+![Pasted image 20230902231336.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230902231336.png)
 *(Tích chọn Link Context nữa cho tiện, sau này mở Youtube thấy muốn xem video nào thì chuột phải vào link video rồi gửi thẳng qua MPV đỡ phải mở trang xem lên tốn thời gian)*
