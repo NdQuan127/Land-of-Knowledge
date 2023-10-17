@@ -18,4 +18,4 @@ tags:: #on/firefox
 - Ngoài ra khi dùng Auto Tab Discard, vào `about:config` xóa sạch trong `extensions.webextensions.restrictedDomains` để nó unload tất không khoan nhượng bố con thằng nào cả, mặc định nó bỏ sót rất nhiều trang của Mozilla.
 
 Ngoài ra khi cài xong thì ấn vào biểu tượng của Auto Tab Discard, chỉnh phần "when the number of inactive tabs exceeds" 1 cho nó tắt tab đi thường xuyên hơn, chứ mặc định là 6 là dành cho những ai luôn mở >6 tab, rất nhiều người dùng trình duyệt mở 3-4 tab thôi nên cho thành 1 để nó unload nhiều hơn. Còn đây là ảnh Firefox của mình mở 5568 tab:
-![Pasted image 20230901161251.png](/img/user/Extras/Images/Pasted%20image%2020230901161251.png)
+![Pasted image 20230901161251.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230901161251.png)
