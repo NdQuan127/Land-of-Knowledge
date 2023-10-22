@@ -30,3 +30,17 @@ for (const a in val) {
 ```
 
 ![Pasted image 20231011202745.png|undefined](/img/user/Extras/Images/Pasted%20image%2020231011202745.png)
+
+## Cách ép *trang web nào đó* phải lòi link ra cho MPV thịt
+- Hướng dẫn:  
+	- Vào cửa sổ HE
+	- Ấn `+` tạo rule mới
+	    - Name: Bypass Video
+	    - Modify request header
+	    - Regular Expression
+	    - `^.*?(?:\.play[^\.]*?\.xyz|animetvn[^\.]*?\.).*?$`
+	    - Header name: `user-agent`
+	    - Header value: `Mozilla/5.0 (Android 12; Mobile; rv:109.0) Gecko/115.0 Firefox/115.0`
+	- Save
+
+> Video demo: https://transfer.sh/kCcG9eoDbn/ikjrRtqz1P.mp4
