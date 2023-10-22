@@ -8,7 +8,8 @@ tags:: #on/firefox
 # Kết nối Firefox với ứng dụng ngoài để mở, tải video, playlist bằng MPV,yt-dlp
 > Cái này để setup thực ra khó vãi l** nên anh em cố gắng đọc kỹ đừng bỏ sót chỗ nào 🙂
 
-> Nhiều anh em sẽ thấy cái này cài đặt phiền phức vl nên sẽ ngại làm và đồng thời vì ngại làm nên cũng ko có cơ hội tiếp xúc với tính năng xịn xò con bò này ![:big_smile:](https://statics.voz.tech/styles/next/xenforo/smilies/popopo/big_smile.png?v=01 "big_smile    :big_smile:") 
+> Nhiều anh em sẽ thấy cái này cài đặt phiền phức vl nên sẽ ngại làm và đồng thời vì ngại làm nên cũng ko có cơ hội tiếp xúc với tính năng xịn xò con bò này ![:big_smile:](https://statics.voz.tech/styles/next/xenforo/smilies/popopo/big_smile.png?v=01 "big_smile    :big_smile:")
+
 > Thế nên để cho dễ dàng hơn anh em có thể dùng bản mpv mình đang dùng hiện tại đã được cài đặt chỉnh chọt hết rồi
 > Link bản *ăn liền* tải ở [đây](https://drive.google.com/file/d/1f-mihrcHTZGrnDoNmMXFulrqHV7HWoPl/view?usp=sharing)
 
