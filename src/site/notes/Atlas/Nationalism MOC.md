@@ -23,8 +23,8 @@ Về chủ đề này, tôi phải thừa nhận rằng mọi quan điểm, bài
 
 
 
-| File                                                                                       |
-| ------------------------------------------------------------------------------------------ |
-| [[+ Encounters/Nguồn gốc của thần thoại chính trị\|Nguồn gốc của thần thoại chính trị]] |
+| File                                                                                  |
+| ------------------------------------------------------------------------------------- |
+| [[Sources/Nguồn gốc của thần thoại chính trị\|Nguồn gốc của thần thoại chính trị]] |
 
 { .block-language-dataview}
