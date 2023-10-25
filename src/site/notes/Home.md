@@ -18,7 +18,7 @@ Tôi hy vọng bạn sẽ tìm được một thứ gì đó ở khu vườn nà
 > - [[Atlas/Nationalism MOC\|Nationalism MOC]]
 > 	- ![Imagined_Comm(1).webp|undefined](/img/user/Extras/Images/Imagined_Comm(1).webp)
 > 	- [[Link\|Card]]
-> - [[+ Encounters/International Relations MOC\|International Relations MOC]]
+> - [[Atlas/International Relations MOC\|International Relations MOC]]
 > 	- ![international-relations-1160x619(1).png|undefined](/img/user/Extras/Images/international-relations-1160x619(1).png)
 > 	- [[Link\|Card]]
 
@@ -40,7 +40,7 @@ Tôi hy vọng bạn sẽ tìm được một thứ gì đó ở khu vườn nà
 > - [[Atlas/Expose Books and Authors MOC\|Expose Books and Authors MOC]] 
 > 	- ![pp,840x830-pad,1000x1000,f8f8f8.u13(1).jpg|undefined](/img/user/Extras/Images/pp,840x830-pad,1000x1000,f8f8f8.u13(1).jpg)
 > 	- [[Link\|Card]]
-> - [[+ Encounters/Kiến thức căn bản về sách\|Kiến thức căn bản về sách]] 
+> - [[Atlas/Kiến thức căn bản về sách\|Kiến thức căn bản về sách]] 
 > 	- ![oldbooks(1)(2).jpg|undefined](/img/user/Extras/Images/oldbooks(1)(2).jpg)
 > 	- [[Link\|Card]]
 
