@@ -27,7 +27,7 @@ tags:: #on/firefox
 - [[+ Encounters/MPV\|MPV]]  
 - [[Sources/File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0\|File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0]]
 - [[Sources/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)\|Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)]]
-- [[+ Encounters/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó\|Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó]]
+- [[Sources/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó\|Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó]]
 
 ## Cài đặt trên Firefox
 - Chỉ dùng cho Floorp: [[Sources/Hướng dẫn sử dụng handlers.json mà ko cần cài addon\|Hướng dẫn sử dụng handlers.json mà ko cần cài addon]]
