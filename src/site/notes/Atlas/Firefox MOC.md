@@ -52,7 +52,7 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 
 - [[Cards/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt\|ECH và cách thức nhà mạng chặn trang web cũng như cách vượt]]
 - [[Cards/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome\|Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome]]
-- [[+ Encounters/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard\|Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard]]
+- [[Cards/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard\|Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard]]
 - [[Cards/Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào\|Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào]]
 - [[+ Encounters/DNS là cái chi mô răng rứa\|DNS là cái chi mô răng rứa]]
 - [[+ Encounters/Hướng dẫn tự fix bug Firefox\|Hướng dẫn tự fix bug Firefox]]
