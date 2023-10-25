@@ -19,9 +19,9 @@ tags:: #map
 - [[Sources/Tổng hợp các trang web xem phim online\|Tổng hợp các trang web xem phim online]]
 - [[Sources/Tổng hợp các trang web tải phần mềm Portable\|Tổng hợp các trang web tải phần mềm Portable]]
 - [[Sources/Tổng hợp các trang tải file ISO Windows\|Tổng hợp các trang tải file ISO Windows]]
-- [[+ Encounters/Thư viện Udemy của Nghiện +\|Thư viện Udemy của Nghiện +]]
-- [[+ Encounters/Tổng hợp các trang web tải nhạc chất lượng cao\|Tổng hợp các trang web tải nhạc chất lượng cao]]
-- [[+ Encounters/Tổng hợp các trang SMS, Phone verify\|Tổng hợp các trang SMS, Phone verify]]
+- [[Sources/Thư viện Udemy của Nghiện +\|Thư viện Udemy của Nghiện +]]
+- [[Cards/Tổng hợp các trang web tải nhạc chất lượng cao\|Tổng hợp các trang web tải nhạc chất lượng cao]]
+- [[Sources/Tổng hợp các trang SMS, Phone verify\|Tổng hợp các trang SMS, Phone verify]]
 - 
 
 ## Tổng hợp key ngon
@@ -41,7 +41,7 @@ tags:: #map
 - [[Sources/Phần mềm dịch Mate Translate Pro\|Phần mềm dịch Mate Translate Pro]]
 - [[Sources/Phần mềm chuyên trị mất mạng Internet\|Phần mềm chuyên trị mất mạng Internet]]
 - [[Sources/Adobe Photoshop + Remove Tool\|Adobe Photoshop + Remove Tool]]
-- [[+ Encounters/Tổng hợp về khôi phục dữ liệu\|Tổng hợp về khôi phục dữ liệu]]
+- [[Sources/Tổng hợp về khôi phục dữ liệu\|Tổng hợp về khôi phục dữ liệu]]
 - [[Cards/Phần mềm dọn dẹp Reg Organizer\|Phần mềm dọn dẹp Reg Organizer]]
 - [[Cards/Phần mềm vẽ sơ đồ tư duy SimpleMind\|Phần mềm vẽ sơ đồ tư duy SimpleMind]]
 
