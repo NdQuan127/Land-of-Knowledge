@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/cac-the-loai-quan-trong-cua-sci-fi/"}
 ---
 
-up:: [[+ Encounters/Kiến thức căn bản về sách\|Kiến thức căn bản về sách]]
+up:: [[Atlas/Kiến thức căn bản về sách\|Kiến thức căn bản về sách]]
 tags:: #on/books   
 
 # Các thể loại quan trọng của Sci-Fi
