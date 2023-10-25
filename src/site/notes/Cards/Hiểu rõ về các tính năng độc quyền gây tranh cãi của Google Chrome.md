@@ -10,7 +10,7 @@ tags:: #on/firefox
 > Chrome gần đây thì thể hiện thế độc quyền thấy rõ, mà mục tiêu chính là họ muốn biến trình duyệt web thành môi trường cho quảng cáo:  
 
 ## Manifest V3 triệt hạ khả năng chặn quảng cáo của trình duyệt. 
-Tham khảo: [[+ Encounters/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard\|Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard]]
+Tham khảo: [[Cards/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard\|Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard]]
 
 ## Privacy Sandbox - Quảng cáo bằng cách địa lịch sử duyệt web của người dùng.
 
