@@ -13,14 +13,5 @@ Vì thế, hàng này NGON, giờ bàn đến cái Remove Tool mới. Thằng n�
 
 Công cụ này mạnh kinh người, nếu để bọn xấu dùng để lột đồ mẫu thì nhanh vô đối. 
 
-- Ảnh gốc
-
-![Pasted image 20230809221507.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230809221507.png)
-
-
-- Sau khi dùng Remove Tool 🤡
-
-![Pasted image 20230809221702.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230809221702.png)
-
 
 > Link tải tại **[đây](https://justpaste.it/bcfw1)** nhé.
