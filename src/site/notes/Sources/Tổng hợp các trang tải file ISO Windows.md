@@ -9,7 +9,7 @@ tags:: #on/bt_chiase
 
 > Anh em nào muốn cài win dạo có thể ghé vô đây :>
 
-![Pasted image 20230809002226.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230809002226.png)
+![Pasted image 20230809002226.png](/img/user/Extras/Images/Pasted%20image%2020230809002226.png)
 
 > Danh sách đó đây nhé
 
