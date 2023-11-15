@@ -10,6 +10,10 @@ tags:: #map
 >[!Note]
 >Nơi lưu trữ những kiến thức về Marxism
 
+>[!Quote] 
+>“If you tremble with indignation at every injustice then you are a comrade of mine.”
+
+
 | File                                                                                                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Cards/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844\|Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844]]           |
