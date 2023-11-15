@@ -29,7 +29,7 @@ Cách thức:
 - Tạo tiếp một `Switch Profile` tên `GoodbyeDPI` rồi `Add condition` rồi chọn Type là `URL regex`, Details là `medium.com` chọn Profile là `ChunkRust` rồi Apply
 - (Chú ý) Muốn thêm trang nào thì tự thêm vào phần Details
 - Chọn proxy là `GoodbyeDPI` trên thanh toolbar của ProxySwitchy Omega, và thế là xong.
-![Pasted image 20230911231611.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230911231611.png)
-![Pasted image 20230911231629.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230911231629.png)
-![Pasted image 20230911231749.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230911231749.png)
+![Pasted image 20230911231611.png](/img/user/Extras/Images/Pasted%20image%2020230911231611.png)
+![Pasted image 20230911231629.png](/img/user/Extras/Images/Pasted%20image%2020230911231629.png)
+![Pasted image 20230911231749.png](/img/user/Extras/Images/Pasted%20image%2020230911231749.png)
 Vào Medium, Bonhup hay ẾchVid... test là thấy sẽ qua tuốt😁
