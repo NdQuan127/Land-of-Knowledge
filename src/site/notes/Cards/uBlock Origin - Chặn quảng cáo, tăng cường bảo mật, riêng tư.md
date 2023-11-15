@@ -29,5 +29,5 @@ Cũng như tăng cường sự riêng tư vì các tracker bị chặn luôn, kh
 
 > **Cách thêm filter:**
 
-![Pasted image 20230901161211.png|undefined](/img/user/Extras/Images/Pasted%20image%2020230901161211.png)
+![Pasted image 20230901161211.png](/img/user/Extras/Images/Pasted%20image%2020230901161211.png)
 
