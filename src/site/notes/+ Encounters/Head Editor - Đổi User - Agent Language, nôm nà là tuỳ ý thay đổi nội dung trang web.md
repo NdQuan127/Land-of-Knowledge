@@ -13,7 +13,7 @@ tags:: #on/bt_chiase
 
 ## Cách ép Youtube Mobile chạy trên Firefox
 
-![Pasted image 20231011202144.png|undefined](/img/user/Extras/Images/Pasted%20image%2020231011202144.png)
+![Pasted image 20231011202144.png](/img/user/Extras/Images/Pasted%20image%2020231011202144.png)
 > UA: `Mozilla/5.0 (Android 12; Mobile; rv:109.0) Gecko/113.0 Firefox/113.0`
 
 ## Disable Hovering to play of Youtube
@@ -29,7 +29,7 @@ for (const a in val) {
 }
 ```
 
-![Pasted image 20231011202745.png|undefined](/img/user/Extras/Images/Pasted%20image%2020231011202745.png)
+![Pasted image 20231011202745.png](/img/user/Extras/Images/Pasted%20image%2020231011202745.png)
 
 ## Cách ép *trang web nào đó* phải lòi link ra cho MPV thịt
 - Hướng dẫn:  
