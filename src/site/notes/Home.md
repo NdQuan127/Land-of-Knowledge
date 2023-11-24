@@ -2,47 +2,69 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-# Digital Garden 🏡
 ## Welcome
 Đây là khu vườn của tôi. Khu vườn chứa đầy những ghi chú về những gì tôi suy ngẫm, tôi thích và tôi muốn chia sẻ. Chúng đầy rẫy lỗi chính tả, cách diễn đạt kỳ lạ và cấu trúc lộn xộn.
 
 Tôi hy vọng bạn sẽ tìm được một thứ gì đó ở khu vườn này. Và cũng đừng ngạc nhiên khi những suy nghĩ, ghi chú ở đây, giống như mọi suy nghĩ trên đời, chúng luôn đổi thay.
 
-## MOC
+> [!Map]- # Atlas
+> > *Where would you like to go?*
+> 
+> - To do inspired work, go to [[Atlas/Maps/Add\|Add]], [[+/Relate\|Relate]], and [[+/Communicate\|Communicate]].
+>   
+> ![mckie-ship-and-sea-mid-narrow-.jpg|400](/img/user/Atlas/Utilities/Images/mckie-ship-and-sea-mid-narrow-.jpg)
+> - To launch into your knowledge, try out: [[Atlas/Maps/Library\|Library]].
+> - To catalyze your mind, go to your [[Thinking Map\|Thinking Map]] and [[Concepts Map\|Concepts Map]]. 
+> - For grounding, [[Life Map\|Life Map]]. For training, [[+/Ideaverse Map\|Ideaverse Map]]. For rules, [[Meta PKM\|Meta PKM]].
 
-### Philosophy & Politics 📚
-> [!kanban]+
-> - [[Atlas/Marxism MOC\|Marxism MOC]]
-> 	- ![Karl_Marx_001(1).jpg](/img/user/Extras/Images/Karl_Marx_001(1).jpg)
-> 	- [[Link\|Card]]
-> - [[Atlas/Nationalism MOC\|Nationalism MOC]]
-> 	- ![Imagined_Comm(1).webp](/img/user/Extras/Images/Imagined_Comm(1).webp)
-> 	- [[Link\|Card]]
-> - [[Atlas/International Relations MOC\|International Relations MOC]]
-> 	- ![international-relations-1160x619(1).png](/img/user/Extras/Images/international-relations-1160x619(1).png)
-> 	- [[Link\|Card]]
+> [!Calendar]- # Calendar
+> > *What's on your mind?* 
+> 
+> - To journal, focus your day, or to capture a spark, hit `Cmd-d` or `Ctrl-d`.
+> - To capture specific type of things, go to [[Logs (Example)\|Logs]].
+>   
+> ![robert-mccall-space-ship-launch-narrower.png|400](/img/user/Atlas/Utilities/Images/robert-mccall-space-ship-launch-narrower.png)
+> - To broadly reflect, go to [[Plan and Review\|Plan and Review]].
+> - To learn more about time travel, go to [[Calendar\|Calendar]].
 
+> [!Training]- # Efforts
+> > *What can you work on?* 
+> 
+> For a concentrated view, go to [[Efforts\|Efforts]].
+> 
+> Use this to keep priorities in order and the quickly adjust your bandwidth as needed. 
+> 
+> > [!Box]+ ### 🔥 On
+> > ``` dataview
+> > TABLE WITHOUT ID
+>  > file.link as "",
+>  > rank as "Rank"
+> > FROM "Efforts/On"
+> > SORT rank desc
+> > ```
+> 
+> > [!Box]+ ### ♻️ Ongoing
+> > ``` dataview
+> > TABLE WITHOUT ID
+> > file.link as "",
+> > rank as "Rank"
+> > FROM "Efforts/Ongoing"
+> > SORT rank desc
+> > ```
+> 
+> > [!Box]- ### 〰️ Simmering
+> > Efforts can easily move from `on` to `simmering` in the background.
+> > 
+> > ``` dataview
+> > TABLE WITHOUT ID
+> > file.link as "",
+> > rank as "Rank"
+> > FROM "Efforts/Simmering"
+> > SORT rank desc
+> > ```
+> 
+> ![robert-mccall-black-hole-concept-art copy.jpg|400](/img/user/Atlas/Utilities/Images/robert-mccall-black-hole-concept-art%20copy.jpg)
 
-### Computer 🖥️
-> [!kanban]+ 
-> - [[Atlas/Firefox MOC\|Firefox MOC]] 
-> 	- ![1023688(1).jpg](/img/user/Extras/Images/1023688(1).jpg)
-> 	- [[Link\|Card]]
-> - [[Atlas/Bí thuật MOC\|Bí thuật MOC]]
-> 	- ![pxfuel(2).jpg](/img/user/Extras/Images/pxfuel(2).jpg)
-> 	- [[Link\|Card]]
-> - [[+ Encounters/Obsidian MOC\|Obsidian MOC]]
-> 	- ![NMLqtTg(1).png](/img/user/Extras/Images/NMLqtTg(1).png)
-> 	- [[Link\|Card]]
+![pale-blue-dot-banner.jpg](/img/user/Atlas/Utilities/Images/pale-blue-dot-banner.jpg)
 
-### Books 📔
-> [!kanban]+ 
-> - [[Atlas/Expose Books and Authors MOC\|Expose Books and Authors MOC]] 
-> 	- ![pp,840x830-pad,1000x1000,f8f8f8.u13(1).jpg](/img/user/Extras/Images/pp,840x830-pad,1000x1000,f8f8f8.u13(1).jpg)
-> 	- [[Link\|Card]]
-> - [[Atlas/Kiến thức căn bản về sách\|Kiến thức căn bản về sách]] 
-> 	- ![oldbooks(1)(2).jpg](/img/user/Extras/Images/oldbooks(1)(2).jpg)
-> 	- [[Link\|Card]]
-
-### Project ⌨️
 
