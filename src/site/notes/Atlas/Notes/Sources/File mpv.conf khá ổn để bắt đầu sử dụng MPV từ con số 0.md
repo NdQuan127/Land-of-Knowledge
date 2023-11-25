@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/file-mpv-conf-kha-on-de-bat-dau-su-dung-mpv-tu-con-so-0/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0/"}
 ---
 
 up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
