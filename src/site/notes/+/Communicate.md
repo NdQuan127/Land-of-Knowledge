@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//communicate/","tags":["map/view"]}
+{"dg-publish":true,"permalink":"/+/Communicate/","tags":["map/view"]}
 ---
 
 **Communicate** là nơi để track những *output* của bạn.
