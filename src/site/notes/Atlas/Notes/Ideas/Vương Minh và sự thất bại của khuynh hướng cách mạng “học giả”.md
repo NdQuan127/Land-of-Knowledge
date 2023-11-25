@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ideas/vuong-minh-va-su-that-bai-cua-khuynh-huong-cach-mang-hoc-gia/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”/"}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
