@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ideas/su-khac-biet-cua-u-block-firefox-vs-chrome-vs-manifest-v3-vs-adguard/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Sự khác biệt của uBlock Firefox vs Chrome vs Manifest V3 vs Adguard/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
