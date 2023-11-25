@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/tong-hop-cac-trang-tai-file-iso-windows/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các trang tải file ISO Windows/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
