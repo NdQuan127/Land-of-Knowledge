@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/marxism-moc/"}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Marxism MOC/"}
 ---
 
 
