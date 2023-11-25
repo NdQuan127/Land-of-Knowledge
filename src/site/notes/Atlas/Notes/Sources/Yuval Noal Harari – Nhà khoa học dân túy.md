@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/yuval-noal-harari-nha-khoa-hoc-dan-tuy/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Yuval Noal Harari – Nhà khoa học dân túy/"}
 ---
 
 up:: [[Atlas/Maps/Expose Books and Authors MOC\|Expose Books and Authors MOC]]
