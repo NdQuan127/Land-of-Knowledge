@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/auto-tab-discard-tu-dong-unload-tab-khong-dung-toi-de-giam-ram-va-cpu/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
