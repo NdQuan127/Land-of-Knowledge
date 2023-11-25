@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/search-in-sidebar-search-qua-sidebar-ma-ko-can-mo-tab-moi/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
