@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ideas/u-block-origin-chan-quang-cao-tang-cuong-bao-mat-rieng-tu/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
