@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ideas/phan-mem-ve-so-do-tu-duy-simple-mind/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Phần mềm vẽ sơ đồ tư duy SimpleMind/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
