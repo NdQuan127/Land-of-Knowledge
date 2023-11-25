@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/add/","tags":["map/view"]}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Add/","tags":["map/view"]}
 ---
 
 
