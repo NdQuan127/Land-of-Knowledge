@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ideas/mot-chu-nghia-marx-xanh-hon/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Một chủ nghĩa Marx xanh hơn/"}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
