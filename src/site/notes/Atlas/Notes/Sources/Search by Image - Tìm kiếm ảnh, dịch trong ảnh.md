@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/search-by-image-tim-kiem-anh-dich-trong-anh/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Search by Image - Tìm kiếm ảnh, dịch trong ảnh/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
