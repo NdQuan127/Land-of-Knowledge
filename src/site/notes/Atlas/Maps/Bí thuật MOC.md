@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/bi-thuat-moc/"}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Bí thuật MOC/"}
 ---
 
 up:: [[Home\|Home]]
@@ -57,4 +57,4 @@ tags:: #map
 
 > Anh em có thể hiểu đơn giản nó là các software, tools open source hoặc là các tài liệu, video,... hay ho trên Github
 
-- [[+/Tổng hợp các Github Repositories\|Tổng hợp các Github Repositories]]
+- [[Efforts/Simmering/Tổng hợp các Github Repositories\|Tổng hợp các Github Repositories]]
