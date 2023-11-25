@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ideas/cac-mac-da-noi-gi-ve-benh-tram-cam-nganh-cong-nghiep-anime-va-video-game-trong-ban-thao-kinh-te-triet-hoc-1844/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844/"}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
