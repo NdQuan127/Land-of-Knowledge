@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/toi-uu-cuon-muot/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tối ưu cuộn mượt/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
