@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/cai-uosc-cho-mpv-de-lay-tinh-nang-chuyen-chat-luong-video-playlist-subtitle/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)/"}
 ---
 
 up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
