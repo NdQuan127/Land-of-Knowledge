@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ideas/proxy-switchy-fake-ip-cuc-dinh-vo-ponhub-medium-ko-can-fake-vpn/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
