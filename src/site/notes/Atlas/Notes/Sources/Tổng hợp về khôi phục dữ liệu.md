@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/tong-hop-ve-khoi-phuc-du-lieu/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp về khôi phục dữ liệu/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
