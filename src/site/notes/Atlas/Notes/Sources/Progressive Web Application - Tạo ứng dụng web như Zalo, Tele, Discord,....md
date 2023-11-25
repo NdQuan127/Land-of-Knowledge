@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/progressive-web-application-tao-ung-dung-web-nhu-zalo-tele-discord/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Progressive Web Application - Tạo ứng dụng web như Zalo, Tele, Discord,.../"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
