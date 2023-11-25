@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ideas/userscript-cho-violentmonkey-greasymonkey-tampermonkey/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
