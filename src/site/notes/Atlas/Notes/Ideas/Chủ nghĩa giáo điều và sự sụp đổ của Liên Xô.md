@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ideas/chu-nghia-giao-dieu-va-su-sup-do-cua-lien-xo/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô/"}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
