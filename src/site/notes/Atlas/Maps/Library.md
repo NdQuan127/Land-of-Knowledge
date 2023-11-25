@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/library/","tags":["#map"]}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Library/","tags":["#map"]}
 ---
 
 > [!Blocks]- The LYT Classification System
