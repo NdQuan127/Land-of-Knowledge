@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/expose-books-and-authors-moc/"}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Expose Books and Authors MOC/"}
 ---
 
 up:: [[Home\|Home]]
