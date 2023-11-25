@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/tong-hop-cac-trang-giveaway-phan-mem-ban-quyen/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các trang giveaway phần mềm bản quyền/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
