@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/ad-guard-premium-6-thang-free-cho-windows-hang-nong-hoi/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/AdGuard Premium 6 tháng free cho windows (hàng nóng hổi)/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
