@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/phan-mem-dich-mate-translate-pro/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Phần mềm dịch Mate Translate Pro/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]] 
