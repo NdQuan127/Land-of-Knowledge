@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/dat-ngoai-le-antivirus-de-firefox-khong-bi-ham-toc-do/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
