@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/nhung-cuoc-dinh-cong-va-dau-da-noi-bo-trong-dang-cong-san-xuat-phat-chinh-tu-dau-tranh-giai-cap-dang-len-o-viet-nam/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Những cuộc đình công và đấu đá nội bộ trong Đảng Cộng sản xuất phát chính từ đấu tranh giai cấp đang lên ở Việt Nam/"}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
