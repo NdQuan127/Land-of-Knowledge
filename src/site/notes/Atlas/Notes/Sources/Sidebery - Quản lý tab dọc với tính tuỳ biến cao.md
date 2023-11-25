@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/sidebery-quan-ly-tab-doc-voi-tinh-tuy-bien-cao/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
