@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//nhung-nha-tu-ban-trung-thuc-se-noi-gi/"}
+{"dg-publish":true,"permalink":"/+/Những nhà tư bản trung thực sẽ nói gì/"}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
