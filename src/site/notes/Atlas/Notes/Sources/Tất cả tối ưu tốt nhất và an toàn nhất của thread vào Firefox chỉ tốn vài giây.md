@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/tat-ca-toi-uu-tot-nhat-va-an-toan-nhat-cua-thread-vao-firefox-chi-ton-vai-giay/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
