@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/maps/firefox-moc/"}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Firefox MOC/"}
 ---
 
 up:: [[Home\|Home]]
