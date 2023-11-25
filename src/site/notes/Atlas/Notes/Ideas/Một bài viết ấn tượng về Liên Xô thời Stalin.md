@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/ideas/mot-bai-viet-an-tuong-ve-lien-xo-thoi-stalin/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Một bài viết ấn tượng về Liên Xô thời Stalin/"}
 ---
 
 up:: [[Soviet Union History\|Soviet Union History]] [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
