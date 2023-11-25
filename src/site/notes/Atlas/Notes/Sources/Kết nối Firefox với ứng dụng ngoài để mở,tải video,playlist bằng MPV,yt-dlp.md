@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/ket-noi-firefox-voi-ung-dung-ngoai-de-mo-tai-video-playlist-bang-mpv-yt-dlp/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]] 
