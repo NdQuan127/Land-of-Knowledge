@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/bat-early-hint-de-tang-toc-tai-trang-bang-cach-tai-truoc-noi-dung-trang-web-truoc-khi-ca-trang-tai-xong/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
