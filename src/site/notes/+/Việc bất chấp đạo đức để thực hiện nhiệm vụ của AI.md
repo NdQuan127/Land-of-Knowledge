@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//viec-bat-chap-dao-duc-de-thuc-hien-nhiem-vu-cua-ai/"}
+{"dg-publish":true,"permalink":"/+/Việc bất chấp đạo đức để thực hiện nhiệm vụ của AI/"}
 ---
 
 
