@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/mot-vai-suy-nghi-cua-1-maxist-vo-dinh-giua-thoi-dai-nay/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Một vài suy nghĩ của 1 maxist vô định giữa thời đại này/"}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
