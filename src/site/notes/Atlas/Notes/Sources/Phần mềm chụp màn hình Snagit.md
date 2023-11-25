@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/phan-mem-chup-man-hinh-snagit/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Phần mềm chụp màn hình Snagit/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
