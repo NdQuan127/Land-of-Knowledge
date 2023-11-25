@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/file-centi-pede-tai-da-luong-nhu-idm-bat-link-video-va-hon-the/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
