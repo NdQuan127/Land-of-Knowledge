@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/tong-hop-cac-group-chat-tren-telegram/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các group chất trên Telegram/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
