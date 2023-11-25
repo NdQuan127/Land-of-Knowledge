@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/simmering/tong-hop-cac-github-repositories/","tags":["on/bt_chiase","#note/develop🍃"]}
+{"dg-publish":true,"permalink":"/Efforts/Simmering/Tổng hợp các Github Repositories/","tags":["on/bt_chiase","#note/develop🍃"]}
 ---
 
 > Làm thế nào để biết được các Repositories hay ho? 
