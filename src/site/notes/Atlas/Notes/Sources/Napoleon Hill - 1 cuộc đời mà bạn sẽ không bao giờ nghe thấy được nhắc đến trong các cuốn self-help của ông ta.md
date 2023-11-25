@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/notes/sources/napoleon-hill-1-cuoc-doi-ma-ban-se-khong-bao-gio-nghe-thay-duoc-nhac-den-trong-cac-cuon-self-help-cua-ong-ta/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta/"}
 ---
 
 up:: [[Atlas/Maps/Expose Books and Authors MOC\|Expose Books and Authors MOC]]
