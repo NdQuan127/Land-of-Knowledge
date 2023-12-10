@@ -24,17 +24,4 @@ When cooler thoughts prevail, you can better prioritize. Cool?
 
 ---
 
-If you want to encounter some new things, check out: [🐦](https://www.twitter.com) or [📚](https://readwise.io/lyt/)          
-
-
-``` dataview
-TABLE WITHOUT ID
- file.link as "",
- (date(today) - file.cday).day as "Days alive"
-
-FROM "+" and -#x/readme 
-
-SORT file.cday asc
-
-LIMIT 10
-```
+  
