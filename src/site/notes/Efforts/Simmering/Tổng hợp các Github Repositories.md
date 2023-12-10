@@ -114,6 +114,10 @@ Nếu muốn follow thì có thể tham khảo thêm cái extension [Devo](https
 
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses): cái này là tổng hợp các khoá học liên quan đến *Computer Science*
 
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university/tree/main): Đây là lộ trình học tập dành cho Sofware Engineer của John Washman đã giúp anh ấy được tuyển vào Google.
+
+- [100 Days ML & DL](https://github.com/ds-teja/100_Days_MLDL/tree/main): Hành trình tu hành 100 ngày để Master AI ![:sexy_girl:](https://statics.voz.tech/styles/next/xenforo/smilies/popopo/sexy_girl.png?v=01 "sexy_girl    :sexy_girl:")
+
 - *updating*
 
 ## Awesome List
