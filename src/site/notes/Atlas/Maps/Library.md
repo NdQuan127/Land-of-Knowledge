@@ -2,32 +2,42 @@
 {"dg-publish":true,"permalink":"/Atlas/Maps/Library/","tags":["#map"]}
 ---
 
-> [!Blocks]- The LYT Classification System
-> The **LYT Classification System** is lightly modified from the Cutter, Dewey, and Universal Decimal classification systems used in libraries around the world. It will provide you a time-tested foundation as you structure the interests of your digital library.
-> - 000 - *Knowledge Management*
-> - 100  - *Personal Management*
-> - 200 - *Philosophy & Psychology; Spirituality & Religion*
-> - 300 - *Social Sciences*
-> - 400 - *Communications & Rhetoric; Language & Linguistics*
-> - 500 - *Natural Sciences*
-> - 600 - *Applied Sciences*
+> [!Blocks]+ The LYT Classification System
+> The **LYT Classification System** là một phiên bản sửa đổi từ các hệ thống phân loại Cutter, Dewey và Universal Decimal - được sử dụng trong các thư viên trên khắp thế giới. Nó sẽ cung cấp cho bạn nền tảng đã được kiểm nghiệm qua thời gian khi bạn cấu trúc *digital library* của mình.
+> - 000 - *Computer Sciences*
+> - 100  - *Natural Sciences*
+> - 200 - *Philosophy*
+> - 300 - *Language & Linguistics*
+> - 400 - *Social Sciences*
+> - 500 - *Personal Management*
+> - 600 - *Knowledge Management*
 > - 700 - *Art & Recreation*
-> - 800 - *Literature*
+> - 800 - *Miscellaneous*
 > - 900 - *History & Biography & Geography*
 > 
 > ![whelan-space-station-1978-mod.jpg](/img/user/Atlas/Utilities/Images/whelan-space-station-1978-mod.jpg)
-> 
-> The LYT Classification System is ready-made to hold your diverse interests. 
-> 
-> Add some placeholders below. 
 
-> [!NOTE]+ ## 000 - Knowledge Management
-> The [[Meta PKM\|Meta PKM]] shows the best practices of knowledge management. I use the [[+/Ideaverse Map\|Ideaverse Map]] to show the power of linked thinking and to empower others to develop their thinking. The [[Mapping MOCs\|Mapping MOCs]] is my personal note to wrap my head around the wondrous beauty that MOCs offer. Others include:
-> 
-> - [[+/Relate\|Relate]] | [[Logs (Example)\|Logs (Example)]] |  [[I want to...\|I want to...]]
-> - [[Cartographer's Corner 🗺\|Cartographer's Corner 🗺]] | [[Commonplace Book\|Commonplace Book]] |  [[Knowledge and memory MOC\|Knowledge and memory MOC]]
+>[!combo]+ ## 000 - Computer Sciences
+> Chúng ta sẽ tìm hiểu về thứ đã, đang và sẽ thay đổi thế giới. Chào mừng đến với thế giới của *khoa học viễn tưởng*.
+> - [[Atlas/Maps/Practical Python\|Practical Python]]
 
-> [!Milestone]+ ## 100 - Personal Management
+>[!leaf]+ ## 100 - Natural Science
+> Chúng ta sẽ khám phá thế giới tự nhiên và vũ trụ bằng những *glorious notes* như  [[Cosmology MOC\|Cosmology MOC]] and [[Math MOC\|Math MOC]]. 
+> 
+> See also: Chemistry | Geology | Plants | Animals | [[Systems MOC (kit)\|Systems MOC (kit)]]
+
+> [!book]+ ## 200 - Philosophy
+> Triết học - khoa học của mọi khoa học, nơi mà những suy tưởng sẽ kiến trúc nên trật tự thế giới.
+> Tôi sẽ dùng [[Atlas/Maps/Philosophy MOC\|Philosophy MOC]] làm ghi chú chính và trỏ sang những thứ khác như: [[Atlas/Maps/Marxism MOC\|Marxism MOC]] và bất cứ điều gì khác
+
+>[!globe]+ ## 300 - Language, & Linguistics
+> Ngôn từ - thứ sức mạnh cổ xưa đầy uy quyền. Chúng ta sẽ tìm hiểu thứ sức mạnh đó qua các ghi chú như [[Atlas/Maps/English MOC\|English MOC]]
+
+>[!castle]+ ## 400 - Social Sciences 👥
+> *Nghiên cứu về xã hội loài người và mối quan hệ cá nhân trong xã hội đó.*
+> - [[People Map\|People Map]]
+
+> [!Milestone]+ ## 500 - Personal Management
 > The [[Thinking Map\|Thinking Map]] can galvanize my attention; the [[Concepts Map\|Concepts Map]] can flavor it; and the [[Habits Map\|Habits Map]] speaks about how to direct it. Hidden within in the [[Cabin\|Cabin]]. Go to my [[Life Map\|Life Map]] to brush up on [[My Virtues (starter)\|My Virtues]] and more.
 > 
 > - [[Posture MOC\|Posture MOC]] | [[Hormesis MOC\|Hormesis MOC]] | [[Breathing Exercises MOC\|Breathing Exercises MOC]] | Flowcreation MOC
@@ -35,53 +45,22 @@
 > - Efforts MOC | [[Life Command ⌘\|Life Command ⌘]] | Plans and Reviews
 > - Finances MOC | Health MOC
 
-## 200 - Philosophy, Psychology ; Spirituality, Religion
-Is there no limit to this section? I use [[Philosophy MOC (kit)\|Philosophy MOC (kit)]] as the big note and then point to things like: [[Stoicism MOC\|Stoicism MOC]], [[Confucianism MOC\|Confucianism MOC]], [[Religion MOC\|Religion MOC]], [[Taoism MOC\|Taoism MOC]], and whatever else comes up.
+> [!network]+ ## 600 - Knowledge Management
+> Tôi sử dụng [[Atlas/Maps/Ideaverse Map\|Ideaverse Map]] để quản lý kiến thức và thể hiện sức mạnh của *linked thinking*. Others include:
+> - [[Atlas/Maps/Relate\|Relate]] | [[Calendar/Logs/Logs\|Logs]] |  [[I want to...\|I want to...]]
 
-[[Psychology MOC (kit)\|Psychology MOC (kit)]] is similar but different enough to have its own space.
+>[!planet]+ ## 700 - Art & Recreation
+>- Books | [[Atlas/Maps/Expose Books and Authors MOC\|Expose Books and Authors MOC]] | [[Atlas/Maps/Kiến thức căn bản về sách\|Kiến thức căn bản về sách]]
+>- Film & TV | 
 
-## 300 - Social Sciences 👥
-*The study of human society and of individual relationships in and to society.*
-While this a very important section, I have found it's a bit more intimate, as strange as that sounds, so I'm hesitant to share too much here. The best place to start is the [[People Map\|People Map]]. along with.
+>[!sailboat]+ ## 800 - Miscellaneous
+> Có những chủ đề chúng ta chẳng biết nên phân loại vào đâu. Đây là nơi tôi đặt tạm thời những chủ đề đó cho đến khi phân loại được nó.
+> - [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
 
-See also: [[People Map#Prominent People 🌋\|Prominent People 🌋]] | Politics | Society | Law | Relationships
-
-## 400 - Communications, Language, & Linguistics
-A fun section of the library, the 400s contains the underrated and oft-maligned subject of [[Rhetoric MOC\|Rhetoric MOC]]. And one cannot talk long about rhetoric without talking about [[Language MOC\|Language MOC]], [[Words MOC\|Words MOC]], and especially [[Figures MOC\|Figures MOC]]. Not too far behind is the [[Leadership MOC\|Leadership MOC]].
-
-## 500 - Natural Sciences
-A sharp break from the previous section, the 500s explore the natural world and universe in glorious notes like [[Cosmology MOC\|Cosmology MOC]] and [[Math MOC\|Math MOC]]. 
-
-See also: Chemistry | Geology | Plants | Animals | [[Systems MOC (kit)\|Systems MOC (kit)]]
-
-## 600 - Applied Sciences
-A natural progression from the previous section, this is where we take the the fundamentals of nature and *apply* them. My undergrad was in [[Engineering MOC\|Engineering MOC]], which relates to my interest in [[Building Homes MOC\|Building Homes MOC]]. Later on, I developed the [[Editing Manual MOC\|Editing Manual MOC]].
-
-See also: Agriculture | Technology | Medical | [[AI MOC\|AI MOC]] | Programming | [[Collective Intelligence MOC\|Collective Intelligence MOC]] | [[Genetics MOC\|Genetics MOC]] | 
-
-## 700 - Art & Recreation
-Ah the leisures of life. Remember leisure? Few really do. This section could easily balloon. 
-
-- Art MOC | [[Design MOC\|Design MOC]] | Architecture | Painting | 
-- Film & TV | [[Movies MOC\|Movies MOC]] 
-- Sports | [[Football MOC\|Football MOC]] 
-- Music | [[Jazz MOC\|Jazz MOC]] | [[Vocals MOC\|Vocals MOC]] 
-- [[Cooking MOC\|Cooking MOC]] | Leisure 
-
-## 800 - Literature
-If folks barely remember leisure, they likely completely forgot about classical literature. A great shame, neomania...we blind ourselves to some of humanity's greatest hits. Use [[Literature MOC\|Literature MOC]] as a launchpad.
-
-## 900 - History & Biography & Geography
-I've noticed I'm naturally building up the [[Ancient Greece MOC\|Ancient Greece MOC]], but I haven't cared to build out the [[History MOC\|History MOC]] just yet. The [[Places MOC\|Places MOC]] is a peculiarly powerful note that has big things in store for it.
-
-The [[Art & Science Storytelling MOC\|Art & Science Storytelling MOC]] look at some great storytellers of history. 
+> [!anchor]+ ## 900 - History & Biography & Geography
+> *Nhìn về quá khứ để tìm thấy tương lai*
+> - [[Atlas/Maps/Việt Nam History MOC\|Việt Nam History MOC]]
+> - [[Soviet Union History\|Soviet Union History]]
 
 ---
-
-Please don't go crazy numbering things. We are just using a pre-made map so we can easily add dots of new interests. 
-
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Content and links have been removed.
-
 Back to: [[Home\|Home]]
