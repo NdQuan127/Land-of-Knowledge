@@ -20,6 +20,7 @@
 >[!combo]+ ## 000 - Computer Sciences
 > Chúng ta sẽ tìm hiểu về thứ đã, đang và sẽ thay đổi thế giới. Chào mừng đến với thế giới của *khoa học viễn tưởng*.
 > - [[Atlas/Maps/Practical Python\|Practical Python]]
+> - [[Atlas/Maps/100 Days Machine Learning & Deep Learning\|100 Days Machine Learning & Deep Learning]]
 
 >[!leaf]+ ## 100 - Natural Science
 > Chúng ta sẽ khám phá thế giới tự nhiên và vũ trụ bằng những *glorious notes* như  [[Cosmology MOC\|Cosmology MOC]] and [[Math MOC\|Math MOC]]. 
