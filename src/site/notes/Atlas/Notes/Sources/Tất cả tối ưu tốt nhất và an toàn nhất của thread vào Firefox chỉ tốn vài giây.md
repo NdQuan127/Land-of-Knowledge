@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tất cả tối ưu tốt nhất và an toàn nhất của thread vào Firefox chỉ tốn vài giây/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
