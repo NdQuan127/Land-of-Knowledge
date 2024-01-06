@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/CHỦ NGHĨA MARX ĐI VỀ ĐÂU/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/CHỦ NGHĨA MARX ĐI VỀ ĐÂU/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
