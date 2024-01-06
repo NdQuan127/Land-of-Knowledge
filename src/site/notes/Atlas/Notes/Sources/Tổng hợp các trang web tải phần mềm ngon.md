@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các trang web tải phần mềm ngon/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các trang web tải phần mềm ngon/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
