@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp về khôi phục dữ liệu/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp về khôi phục dữ liệu/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
