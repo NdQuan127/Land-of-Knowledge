@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tắt OCSP để tăng tốc kết nối tới trang web/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tắt OCSP để tăng tốc kết nối tới trang web/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
