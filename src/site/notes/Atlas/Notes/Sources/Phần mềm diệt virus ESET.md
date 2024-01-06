@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Phần mềm diệt virus ESET/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Phần mềm diệt virus ESET/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
