@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Các bản mod ngon của Firefox/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Các bản mod ngon của Firefox/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
