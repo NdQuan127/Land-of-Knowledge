@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các trang web xem phim online/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các trang web xem phim online/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
