@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
