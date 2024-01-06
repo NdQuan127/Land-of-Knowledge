@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cách xiên Google One XXX Years/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cách xiên Google One XXX Years/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
