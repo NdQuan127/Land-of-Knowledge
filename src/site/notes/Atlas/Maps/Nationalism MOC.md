@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Maps/Nationalism MOC/"}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Nationalism MOC/","noteIcon":""}
 ---
 
 up:: [[Home\|Home]]
