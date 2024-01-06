@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
