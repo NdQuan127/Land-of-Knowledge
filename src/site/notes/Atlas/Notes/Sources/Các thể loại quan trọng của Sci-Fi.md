@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Các thể loại quan trọng của Sci-Fi/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Các thể loại quan trọng của Sci-Fi/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Kiến thức căn bản về sách\|Kiến thức căn bản về sách]]
