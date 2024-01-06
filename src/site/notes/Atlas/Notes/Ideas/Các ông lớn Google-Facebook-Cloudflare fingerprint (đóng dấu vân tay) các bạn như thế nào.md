@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Các ông lớn Google-Facebook-Cloudflare fingerprint (đóng dấu vân tay) các bạn như thế nào/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
