@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/+/Digital Garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/+/Digital Garden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 Đây là khu vườn của tôi. Khu vườn chứa đầy những ghi chú về những gì tôi suy ngẫm, tôi thích và tôi muốn chia sẻ. Chúng đầy rẫy lỗi chính tả, cách diễn đạt kỳ lạ và cấu trúc lộn xộn.
