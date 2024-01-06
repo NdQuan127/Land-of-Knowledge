@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Maps/Bí thuật MOC/"}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Bí thuật MOC/","noteIcon":""}
 ---
 
 up:: [[Home\|Home]]
