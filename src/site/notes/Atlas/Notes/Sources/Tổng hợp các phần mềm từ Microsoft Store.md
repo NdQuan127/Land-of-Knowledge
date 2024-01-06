@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các phần mềm từ Microsoft Store/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các phần mềm từ Microsoft Store/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
