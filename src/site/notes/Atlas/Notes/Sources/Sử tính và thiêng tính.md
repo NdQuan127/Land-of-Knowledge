@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Sử tính và thiêng tính/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Sử tính và thiêng tính/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
