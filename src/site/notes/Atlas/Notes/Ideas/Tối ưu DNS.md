@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Tối ưu DNS/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Tối ưu DNS/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
