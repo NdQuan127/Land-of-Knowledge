@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Maps/Expose Books and Authors MOC/"}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Expose Books and Authors MOC/","tags":["map"],"noteIcon":""}
 ---
-
-up:: [[Home\|Home]]
-tags:: #map
-
-# Expose Books and Authors MOC
 
 > [!Note] 
 > Quan điểm xưa giờ của tôi luôn là *"Đọc sách và xem sẽ là sở thích cá nhân, chúng tương đương nhau và đừng thượng đẳng làm gì"*. Nôm na là với tôi những kẻ đọc vài cuốn sách xong hoặc *'có học'*  một tí đã coi mình thượng đẳng hơn người khác, ra vẻ đạo mạo,... thì đều *hãm lờ* hết. Thậm chí đầy người trên *thiên địa hội* còn *có học* hơn mấy kẻ *'có học'* đấy ![scs](https://i.imgur.com/IYqzj0A_d.webp?maxwidth=760&fidelity=grand). 
