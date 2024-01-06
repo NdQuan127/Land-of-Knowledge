@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Ép Firefox lưu cache trên RAM mà không cần RAMDisk/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Ép Firefox lưu cache trên RAM mà không cần RAMDisk/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
