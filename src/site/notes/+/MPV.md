@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/+/MPV/"}
+{"dg-publish":true,"permalink":"/+/MPV/","noteIcon":""}
 ---
 
 up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
