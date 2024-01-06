@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/1001 câu hỏi về Testflight của Apple/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/1001 câu hỏi về Testflight của Apple/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
