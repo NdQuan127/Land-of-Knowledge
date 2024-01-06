@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Marx và Engels về sinh thái học/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Marx và Engels về sinh thái học/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
