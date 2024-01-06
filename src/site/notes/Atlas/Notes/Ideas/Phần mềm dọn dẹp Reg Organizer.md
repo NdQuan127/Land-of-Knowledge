@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Phần mềm dọn dẹp Reg Organizer/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Phần mềm dọn dẹp Reg Organizer/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
