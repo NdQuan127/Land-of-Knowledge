@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Một vài suy nghĩ của 1 maxist vô định giữa thời đại này/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Một vài suy nghĩ của 1 maxist vô định giữa thời đại này/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
