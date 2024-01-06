@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/+/Hướng dẫn tự fix bug Firefox/"}
+{"dg-publish":true,"permalink":"/+/Hướng dẫn tự fix bug Firefox/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
