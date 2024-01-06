@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các group chất trên Telegram/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các group chất trên Telegram/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
