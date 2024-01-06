@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Adobe Photoshop + Remove Tool/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Adobe Photoshop + Remove Tool/","noteIcon":""}
 ---
 
 up::[[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]] 
