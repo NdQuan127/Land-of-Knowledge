@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM/","noteIcon":""}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
