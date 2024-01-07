@@ -2,10 +2,13 @@
 {"dg-publish":true,"permalink":"/+/Digital Garden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-Đây là khu vườn của tôi. Khu vườn chứa đầy những ghi chú về những gì tôi suy ngẫm, tôi thích và tôi muốn chia sẻ. Chúng đầy rẫy lỗi chính tả, cách diễn đạt kỳ lạ và cấu trúc lộn xộn.
+# Universe of Ideas
 
-Tôi hy vọng bạn sẽ tìm được một thứ gì đó ở khu vườn này. Và cũng đừng ngạc nhiên khi những suy nghĩ, ghi chú ở đây, giống như mọi suy nghĩ trên đời, chúng luôn đổi thay.
+![X](/img/user/Atlas/Utilities/Images/00.png)
 
+Vũ trụ là hằng sa các mảnh thiên thể, các hành tinh, hố đen, ngôi sao, ... Tất cả đều liên tục biến đổi, hợp thành rồi lại tách ra, tan biến rồi lại xuất hiện, lặng im rồi bùng nổ, ... Tâm trí của con người cũng giống như vậy, liên tục biến đổi và phát triển. Và nó thật là một tác phẩm tuyệt diệu của đấng sáng tạo.
+
+Các chủ đề tôi sẽ chia sẻ cho các bạn sẽ nằm trong thư mục `Atlas/Map`. Các mảnh kiến thức hình thành nên thế giới quan của tôi trải rộng trong thư mục `Atlas/Notes`. Chúng liên tục thay đổi, hợp thành, kéo vào rồi lại tách ra ,... giống như các thiên thể, hành tinh, hố đen, ... trong vũ trụ. Chúng luôn luôn được cập nhật, thay đổi và phát triển.
 ### Philosophy & Politics 📚
 > [!kanban]+
 > - [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
