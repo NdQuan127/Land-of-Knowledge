@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta/","tags":["#on/books"],"noteIcon":""}
 ---
-
-up:: [[Atlas/Maps/Expose Books and Authors MOC\|Expose Books and Authors MOC]]
-tags:: #on/expose
-
-# Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta
 
 >[!Info]
 >Bài viết sẽ giúp bạn nhìn thấy những sự thật về cuộc đời của tác giả cuốn “Suy nghĩ và Làm giàu”, những điều mà không ai trong ngành công nghiệp self-help muốn cho bạn biết về một tượng đài trong ngành của họ – Napoleon Hill. Chống chỉ định hội cuồng **self-help** đọc bài này.
