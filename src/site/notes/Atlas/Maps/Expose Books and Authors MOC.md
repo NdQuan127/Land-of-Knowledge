@@ -9,4 +9,4 @@
 >Có rất nhiều cuốn sách được khối người nâng tầm coi như là *kinh thánh* nhưng với tôi thì nó như shit. Và đây là nơi vạch trần sự giả dối của những cuốn sách và tác giả của chúng. ![IYqzj0A_d.jpg](/img/user/Atlas/Utilities/Images/IYqzj0A_d.jpg)
 
 - [[Atlas/Notes/Sources/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta\|Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta]]
-- [[Atlas/Notes/Sources/Yuval Noal Harari – Nhà khoa học dân túy\|Yuval Noal Harari – Nhà khoa học dân túy]] 
+- [[Atlas/Notes/Sources/Yuval Noal Harari 1 Nhà khoa học dân túy\|Yuval Noal Harari 1 Nhà khoa học dân túy]] 
