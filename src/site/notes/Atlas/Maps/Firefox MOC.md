@@ -23,16 +23,12 @@ tags:: #map
 - [[Atlas/Notes/Sources/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong\|Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong]]
 - [[Atlas/Notes/Sources/Bật punycode để miễn nhiễm với tên miền giả mạo\|Bật punycode để miễn nhiễm với tên miền giả mạo]]
 - [[Atlas/Notes/Sources/Tối ưu cuộn mượt\|Tối ưu cuộn mượt]]
-- [[Atlas/Notes/Ideas/Tối ưu DNS\|Tối ưu DNS]]
+- ~~[[Atlas/Notes/Ideas/Tối ưu DNS\|Tối ưu DNS]]~~
 - *updating...*
 
 => Vậy là sau khi làm theo các thứ trên anh em sẽ được 1 firefox với tốc độ mà chrome gọi bằng bố 🤪
-*Đây là 2 video so sánh:*
-Firefox: [https://streamable.com/wtoz4k](https://streamable.com/wtoz4k)  
-Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 
-## Addon bá đạo cho firefox
-*updating...*
+## Addon bá đạo cho Firefox
 - [[Atlas/Notes/Ideas/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư\|uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư]] *(must try)*
 - [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]] 
 - [[Atlas/Notes/Ideas/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey\|Userscript cho Violentmonkey-Greasymonkey-Tampermonkey]] *(must try)*
