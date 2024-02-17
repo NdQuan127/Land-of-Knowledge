@@ -1,20 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Maps/Marxism MOC/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Marxism MOC/","tags":["#map"]}
 ---
 
-
-up:: [[Home\|Home]]
-tags:: #map 
-
-# Marxism MOC
->[!Note]
->Nơi lưu trữ những kiến thức về Marxism
-
->[!Quote] 
->“If you tremble with indignation at every injustice then you are a comrade of mine.”
-
-
-| File                                                                                                                                                                                                                                                                |
+  >[!Note]
+  >Nơi lưu trữ những kiến thức về Marxism
+  
+  >[!Quote] 
+  >“If you tremble with indignation at every injustice then you are a comrade of mine.”
+  
+  
+  | File                                                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Atlas/Notes/Ideas/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844\|Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844]]           |
 | [[Atlas/Notes/Ideas/Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô\|Chủ nghĩa giáo điều và sự sụp đổ của Liên Xô]]                                                                                                                                                 |
@@ -33,4 +28,4 @@ tags:: #map
 | [[Atlas/Notes/Ideas/Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”\|Vương Minh và sự thất bại của khuynh hướng cách mạng “học giả”]]                                                                                                             |
 
 { .block-language-dataview}
-
+-
