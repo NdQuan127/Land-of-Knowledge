@@ -12,6 +12,13 @@ Tổng hợp tất cả tối ưu tốt nhất của thread trong một file `us
 
 Và thế là xong, chỉ một file `user.js` chứa tất cả tinh hoa bao đời nay của người dùng Firefox và của thread, thao tác chưa tới vài giây là xong.
 
+>[!Summary] Kết quả
+>- Tăng tốc
+>- Giảm RAM
+>- Giảm CPU/GPU
+>- Giảm điện năng tiêu thụ
+>- Giảm đọc ghi ổ đĩa, giúp SSD sống lâu hơn
+>- Bật các tính năng hay (Container, Sleeping Tab) tắt các tính năng rác (Pocket, View..)
 ## Hướng dẫn dùng file user.js để sửa nhanh một loạt cấu hình about:config trên Firefox Android không cần root.
 
 **Bước 1:** Kết nối ADB giữa thiết bị Android và PC. *(cái này anh em search google là thấy cách làm)*
@@ -55,5 +62,6 @@ var user_pref = function(pref, val){
 
 > Và thế là xong. Disconnect các thứ ra và tận hưởng.😁
 
-
+---
+> Source: (https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-chromium.682181/post-27527209)
 
