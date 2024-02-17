@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844/","tags":["#marxism"]}
 ---
 
-up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
-tags:: #marxism 
-
-# Các Mác đã nói gì về bệnh trầm cảm, ngành công nghiệp anime và video game trong bản thảo kinh tế triết học 1844
 ***
 Trigger Warning: phần cuối bài viết có nói về bệnh tâm lý, tự làm đau bản thân và ý định tự tử. Nếu bạn có những triệu chứng đó, hãy tìm đến những chuyên gia tâm lý, hoặc trao đổi với những sngười thân xung quanh bạn.
 
