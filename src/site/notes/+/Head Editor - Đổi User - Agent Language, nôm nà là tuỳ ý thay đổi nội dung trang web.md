@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/+/Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web/","noteIcon":""}
+{"dg-publish":true,"permalink":"/+/Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
