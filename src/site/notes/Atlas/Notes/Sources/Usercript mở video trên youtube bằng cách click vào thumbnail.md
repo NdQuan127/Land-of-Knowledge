@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Usercript mở video trên youtube bằng cách click vào thumbnail/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Usercript mở video trên youtube bằng cách click vào thumbnail/"}
 ---
 
 up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]] 
