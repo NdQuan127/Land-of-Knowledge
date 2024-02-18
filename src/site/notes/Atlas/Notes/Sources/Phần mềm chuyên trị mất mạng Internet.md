@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Phần mềm chuyên trị mất mạng Internet/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Phần mềm chuyên trị mất mạng Internet/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
