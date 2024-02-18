@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Search by Image - Tìm kiếm ảnh, dịch trong ảnh/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Search by Image - Tìm kiếm ảnh, dịch trong ảnh/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
