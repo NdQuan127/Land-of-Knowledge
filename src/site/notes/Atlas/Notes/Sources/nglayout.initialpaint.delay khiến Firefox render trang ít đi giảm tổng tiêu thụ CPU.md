@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
