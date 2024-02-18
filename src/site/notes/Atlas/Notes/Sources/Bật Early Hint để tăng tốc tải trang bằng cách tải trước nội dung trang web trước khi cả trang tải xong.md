@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
