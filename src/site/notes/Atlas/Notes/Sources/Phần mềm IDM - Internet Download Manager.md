@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Phần mềm IDM - Internet Download Manager/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Phần mềm IDM - Internet Download Manager/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
