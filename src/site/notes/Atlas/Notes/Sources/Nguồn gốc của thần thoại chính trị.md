@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Nguồn gốc của thần thoại chính trị/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Nguồn gốc của thần thoại chính trị/"}
 ---
 
 up:: [[Atlas/Maps/Nationalism MOC\|Nationalism MOC]]
