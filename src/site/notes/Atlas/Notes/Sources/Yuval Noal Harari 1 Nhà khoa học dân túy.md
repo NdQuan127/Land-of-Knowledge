@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Yuval Noal Harari 1 Nhà khoa học dân túy/","tags":["#on/books"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Yuval Noal Harari 1 Nhà khoa học dân túy/","tags":["#on/books"]}
 ---
 
 **Harari được coi là nhà trí thức được săn đón nhất trên thế giới, không phải vì độ xác thực trong những kiến thức mà ông đưa ra, mà vì tài năng kể chuyện một cách hấp dẫn, khéo léo che giấu những thiếu sót về khoa học.**
