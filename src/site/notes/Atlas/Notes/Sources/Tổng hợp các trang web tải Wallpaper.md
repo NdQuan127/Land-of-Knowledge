@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các trang web tải Wallpaper/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các trang web tải Wallpaper/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
