@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
@@ -22,7 +22,8 @@ Mục này để chứa những  *Userscript*, lợi ích:
 - Làm chủ mã nguồn, phát triển thêm nếu muốn
 - Rất nhiều addon chỉ đơn giản là Userscript, không đáng phải cài thành addon cho phí tài nguyên Firefox
 
-## Facebook Unseen - Chặn seen trên Facebook
+## ~~Facebook Unseen - Chặn seen trên Facebook~~
+>**Outdate**
 ```javaScript
 // ==UserScript==
 // @name            Facebook Unseen
