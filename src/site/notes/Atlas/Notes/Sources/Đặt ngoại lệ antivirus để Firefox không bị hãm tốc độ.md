@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
