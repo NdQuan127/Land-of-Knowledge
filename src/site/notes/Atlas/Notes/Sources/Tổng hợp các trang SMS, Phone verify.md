@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các trang SMS, Phone verify/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tổng hợp các trang SMS, Phone verify/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
