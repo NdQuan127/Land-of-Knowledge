@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/ECH và cách thức nhà mạng chặn trang web cũng như cách vượt/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
