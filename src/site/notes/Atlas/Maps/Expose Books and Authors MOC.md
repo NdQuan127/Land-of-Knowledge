@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Maps/Expose Books and Authors MOC/","tags":["map"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Expose Books and Authors MOC/","tags":["map"]}
 ---
 
 > [!Note] 
