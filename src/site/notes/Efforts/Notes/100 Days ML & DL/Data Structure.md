@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Efforts/Notes/100 Days ML & DL/Data Structure/","tags":["#on/python/pandas"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Efforts/Notes/100 Days ML & DL/Data Structure/","tags":["#on/python/pandas"]}
 ---
 
 >[!summary] Definition🧩
