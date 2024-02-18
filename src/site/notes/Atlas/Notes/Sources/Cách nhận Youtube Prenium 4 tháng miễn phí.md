@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cách nhận Youtube Prenium 4 tháng miễn phí/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cách nhận Youtube Prenium 4 tháng miễn phí/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
