@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Bí kíp xiên Google One tái bản lần thứ 2/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Bí kíp xiên Google One tái bản lần thứ 2/"}
 ---
 
 up:: [[Atlas/Maps/Bí thuật MOC\|Bí thuật MOC]]
