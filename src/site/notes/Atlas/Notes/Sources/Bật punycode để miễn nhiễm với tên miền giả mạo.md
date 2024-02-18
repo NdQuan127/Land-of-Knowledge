@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Bật punycode để miễn nhiễm với tên miền giả mạo/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Bật punycode để miễn nhiễm với tên miền giả mạo/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
