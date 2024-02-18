@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cách sử dụng plugin streamsave cho MPV để lưu video mọi thể loại, mọi độ khó/"}
 ---
 
 up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
