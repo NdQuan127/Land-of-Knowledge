@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox (an toàn 1000%)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox (an toàn 1000%)/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
