@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Efforts/Notes/100 Days ML & DL/Days 1 - Pandas Revision/","tags":["#on/python/pandas"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Efforts/Notes/100 Days ML & DL/Days 1 - Pandas Revision/","tags":["#on/python/pandas"]}
 ---
 
 ![1 rJNWKtaLnILlBecbvSJCUw.webp](/img/user/Atlas/Utilities/Images/1%20rJNWKtaLnILlBecbvSJCUw.webp)
