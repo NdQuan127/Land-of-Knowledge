@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tối ưu cuộn mượt/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tối ưu cuộn mượt/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
