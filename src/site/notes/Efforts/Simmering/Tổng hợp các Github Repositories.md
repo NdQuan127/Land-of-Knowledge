@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Efforts/Simmering/Tổng hợp các Github Repositories/","tags":["on/bt_chiase","#note/develop🍃"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Efforts/Simmering/Tổng hợp các Github Repositories/","tags":["on/bt_chiase","#note/develop🍃"]}
 ---
 
 > Làm thế nào để biết được các Repositories hay ho? 
@@ -46,7 +46,7 @@ Nếu muốn follow thì có thể tham khảo thêm cái extension [Devo](https
 
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader): Cái  này nặng đô vl. Các thím tự đọc nhà với có đam mê nghiên cứu học tập thì cũng nên tiết chế tránh "tinh tẫn nhân vong" ![:sexy_girl:](https://statics.voz.tech/styles/next/xenforo/smilies/popopo/sexy_girl.png?v=01 "sexy_girl    :sexy_girl:")
 
-- [DeepCreamPy](https://github.com/Deepshift/DeepCreamPy): *Decensoring Hentai with Deep Neural Networks.* ![x](https://i.imgur.com/jJnsOYE_d.webp?maxwidth=760&fidelity=grand)
+- [DeepCreamPy](https://github.com/Deepshift/DeepCreamPy): *Decensoring Hentai with Deep Neural Networks.* ![:sexy_girl:](https://statics.voz.tech/styles/next/xenforo/smilies/popopo/sexy_girl.png?v=01 "sexy_girl    :sexy_girl:")
 
 - [Vaultwarden heroku](https://github.com/davidjameshowell/vaultwarden_heroku): selfhost bitwarden free, dùng đc hết cái tính năng pro của bitwarden  
 
@@ -152,7 +152,7 @@ Nếu muốn follow thì có thể tham khảo thêm cái extension [Devo](https
 
 ## App iOS
 
-> Đây là list app cho IOS chưa jailbreak. Thím nào giàu có iPhone test thử xem, chứ con Xiaomi ghẻ của em chịu chết ![rewr](https://i.imgur.com/jSxWffg_d.webp?maxwidth=760&fidelity=grand)  
+> Đây là list app cho IOS chưa jailbreak. Thím nào giàu có iPhone test thử xem, chứ con Xiaomi ghẻ của em chịu chết ![:sexy_girl:](https://statics.voz.tech/styles/next/xenforo/smilies/popopo/sexy_girl.png?v=01 "sexy_girl    :sexy_girl:")  
   
 - [TrollStore](https://github.com/opa334/TrollStore) (CoreTrust bug): app hỗ trợ cài file ipa cho iOS/iPadOS vĩnh viễn ko cần gia hạn cho iPadOS 14-16.5beta/15.6beta (bình thường cài ipa qua tài khoản apple phải gia hạn mỗi 7 ngày nếu miễn phí), cài app này xong cài app ipa như cài apk bên Android.  
   
@@ -163,3 +163,4 @@ Nếu muốn follow thì có thể tham khảo thêm cái extension [Devo](https
 - [WDBFontOverwrite](https://github.com/ginsudev/WDBFontOverwrite):Cho phép nhập font chữ và đổi toàn bộ font chữ iOS  
   
 - [TrollLock Reborn](https://github.com/aethercot/TrollLock-Reborn): Cho phép đổi icon ổ khóa ở màn hình khóa iphone thành bất cứ thứ gì mình thích (ví dụ đổi thành hình windows hello)  
+- 
