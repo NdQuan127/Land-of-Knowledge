@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Hiểu rõ về các tính năng độc quyền gây tranh cãi của Google Chrome/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
