@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)/"}
 ---
 
 up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
