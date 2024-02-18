@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Search in Sidebar - Search qua sidebar mà ko cần mở tab mới/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
