@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU/"}
 ---
 
 up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
