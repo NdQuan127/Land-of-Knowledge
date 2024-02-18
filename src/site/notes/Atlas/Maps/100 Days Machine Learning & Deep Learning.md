@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Maps/100 Days Machine Learning & Deep Learning/","tags":["map"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Maps/100 Days Machine Learning & Deep Learning/","tags":["map"]}
 ---
 
 >[!note]
