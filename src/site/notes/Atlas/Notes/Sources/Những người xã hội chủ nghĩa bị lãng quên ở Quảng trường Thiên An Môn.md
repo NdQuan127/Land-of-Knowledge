@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Những người xã hội chủ nghĩa bị lãng quên ở Quảng trường Thiên An Môn/"}
 ---
 
 up:: [[Atlas/Maps/Marxism MOC\|Marxism MOC]]
