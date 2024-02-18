@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Maps/Bí thuật MOC/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Maps/Bí thuật MOC/","tags":["#map"]}
 ---
-
-up:: [[Home\|Home]]
-tags:: #map 
-
-# Bí thuật MOC
 
 > Nơi tập hợp và chia sẻ những trick, phần mềm, website hay để có 1 cuộc sống thoải mái hơn trong thời đại công nghệ
 
