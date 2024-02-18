@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta/","tags":["#on/books"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Napoleon Hill - 1 cuộc đời mà bạn sẽ không bao giờ nghe thấy được nhắc đến trong các cuốn self-help của ông ta/","tags":["#on/books"]}
 ---
 
 >[!Info]
