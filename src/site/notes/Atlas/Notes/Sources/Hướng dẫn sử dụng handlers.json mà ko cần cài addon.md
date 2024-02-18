@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Hướng dẫn sử dụng handlers.json mà ko cần cài addon/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Hướng dẫn sử dụng handlers.json mà ko cần cài addon/"}
 ---
 
 up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
