@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/+/MPV/"}
+{"dg-publish":true,"permalink":"/+/MPV/","tags":["on/bt_chiase"]}
 ---
-
-up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
-tags:: #on/firefox
-
-# MPV
 
 Khởi đầu mình giới thiệu cách để kết nối Firefox với MPV, mà kết quả là các bạn có thể xem video/playlist/channel của các trang như Youtube/Dailimotion/Nicovideo... thẳng trên MPV, bỏ hết quảng cáo rác rưởi cũng như hiệu năng tuyệt đỉnh mà trình xem HTML5 cùi bắp của trình duyệt web không bao giờ so bì lại.
 
