@@ -1,14 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao/","tags":["on/bt_chiase"]}
 ---
 
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# Sidebery - Quản lý tab dọc với tính tuỳ biến cao
 [**Sidebery**](https://addons.mozilla.org/en-US/firefox/addon/sidebery/): Addon hỗ trợ chơi tab dọc có tính tùy biến rất cao và bắt mắt.
-
-**Tính năng:**
+## Tính năng
 - Quản lý tab theo nhóm như Tab Group của Chrome
 ![Pasted image 20230901155731.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020230901155731.png)
 
@@ -18,7 +13,10 @@ tags:: #on/bt_chiase
 - Nhiều tuỳ biến thay đổi giao diện từ cơ bản đến nâng cao
 ![Pasted image 20230901155940.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020230901155940.png)
 
-**Ẩn/hiện thanh tab ngang cho gọn vì Sidebery bao tab dọc (dùng userChrome.css)**
+## Ẩn/hiện thanh tab ngang cho gọn vì Sidebery bao tab dọc (dùng userChrome.css)
+>[!Warning]
+>Nếu dùng floorp thì chỉ cần vô Settings chọn Optimise browser for Vertical Tab Bar là được
+
 Copy chỗ này vào file userChrome.css:
 ```javaScript
 /* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/autohide_tabstoolbar.css made available under Mozilla Public License v. 2.0
