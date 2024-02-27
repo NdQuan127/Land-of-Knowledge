@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0/","tags":["on/bt_chiase"]}
 ---
-
-up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
-tags:: #on/firefox 
-
-# File mpv.conf khá ổn để bắt đầu sử dụng MPV từ con số 0
 
 ```javaScript
 #Cach su dung: Xoa # o doan #abc=xyz o dau dong de kich hoat nhung doan config mau
