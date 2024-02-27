@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Ép Firefox lưu cache trên RAM mà không cần RAMDisk/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Ép Firefox lưu cache trên RAM mà không cần RAMDisk/","tags":["on/bt_chiase"]}
 ---
-
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
-tags:: #on/bt_chiase 
 
 Mở đầu là cách chuyển cache (bộ nhớ đệm) của Firefox lên RAM hết. Như cái bạn biết khi các bạn vào Facebook, Youtube hay gì gì thì trình duyệt sẽ tải các file .js, .css, .json, ảnh... vào thư mục cache, điều này không thực sự tốt cho ổ cứng SSD, cũng như RAM thời nay rẻ như bèo, nên chuyển hết cache lên RAM thì sẽ đạt hiệu năng cao hơn.  
   
