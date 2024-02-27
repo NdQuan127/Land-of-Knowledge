@@ -29,7 +29,7 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 ## Addon bá đạo cho firefox
 *updating...*
 - [[Atlas/Notes/Ideas/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư\|uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư]] *(must try)*
-- [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]] 
+- [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]] *(must try)*
 - [[Atlas/Notes/Ideas/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey\|Userscript cho Violentmonkey-Greasymonkey-Tampermonkey]] *(must try)*
 - [[Atlas/Notes/Sources/Sidebery - Quản lý tab dọc với tính tuỳ biến cao\|Sidebery - Quản lý tab dọc với tính tuỳ biến cao]]
 - [[Atlas/Notes/Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM\|Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM]] *(outdated)*
