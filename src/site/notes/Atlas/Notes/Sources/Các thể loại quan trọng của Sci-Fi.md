@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Các thể loại quan trọng của Sci-Fi/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Các thể loại quan trọng của Sci-Fi/","tags":["on/books"]}
 ---
 
-up:: [[Atlas/Maps/Kiến thức căn bản về sách\|Kiến thức căn bản về sách]]
-tags:: #on/books   
-
+>[!Blocks] Table of Contents
+>```table-of-contents
+>```
 # Các thể loại quan trọng của Sci-Fi
 
 ![https://images.spiderum.com/sp-images/c8f72920d50411ed9ad27dd2af7100e3.jpeg](https://images.spiderum.com/sp-images/c8f72920d50411ed9ad27dd2af7100e3.jpeg)
