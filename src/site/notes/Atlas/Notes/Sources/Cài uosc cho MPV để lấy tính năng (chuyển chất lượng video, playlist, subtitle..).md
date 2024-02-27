@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)/","tags":["on/bt_chiase"]}
 ---
-
-up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]]
-tags:: #on/firefox 
-
-# Cài uosc cho MPV để lấy tính năng (chuyển chất lượng video, playlist, subtitle..)
 
 - Tạo folder portable_config trong cùng một thư mục với mpv.exe nếu chưa tạo
 - Tạo folder tên scripts và tên script-opts trong thư mục portable_config
