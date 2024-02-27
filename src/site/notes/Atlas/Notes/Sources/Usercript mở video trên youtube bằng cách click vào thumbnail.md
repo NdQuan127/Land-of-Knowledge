@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Usercript mở video trên youtube bằng cách click vào thumbnail/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Usercript mở video trên youtube bằng cách click vào thumbnail/","tags":["on/bt_chiase"]}
 ---
 
-up:: [[Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp\|Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp]] 
-tags:: #on/firefox  
-
-# Usercript mở video trên youtube bằng cách click vào thumbnail
 > Các thím vào [[+/Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web\|Head Editor - Đổi User - Agent Language, nôm nà là tuỳ ý thay đổi nội dung trang web]] để cài Header *Disable Hovering to play of Youtube* trước.
 
 > Ý tưởng: Click vào thumbnail thì mở bằng MPV, click vào tên thì mở qua web
