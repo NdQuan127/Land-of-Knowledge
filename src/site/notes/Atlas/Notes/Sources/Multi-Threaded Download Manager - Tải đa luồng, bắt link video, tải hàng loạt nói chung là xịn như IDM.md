@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM/","tags":["on/bt_chiase"]}
 ---
-
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
-tags:: #on/bt_chiase 
 
 # ~~Multi-Threaded Download Manager - Tải đa luồng, bắt link video, tải hàng loạt nói chung là xịn như IDM~~
 > **Tình hình là MDM do tác giả đã ngừng update rồi nên là thuật toán tải của thằng này có chút outdate mà lại không ai chịu phát triển nó tiếp. Tuy hiện giờ nó vẫn rất ngon nhưng để lâu dài anh em có thể chuyển sang dùng con Vịt Pede**
