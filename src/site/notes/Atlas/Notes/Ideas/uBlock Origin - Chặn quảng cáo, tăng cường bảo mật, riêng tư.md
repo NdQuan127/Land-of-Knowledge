@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư/","tags":["on/bt_chiase"]}
 ---
 
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
-tags:: #on/bt_chiase 
-# uBlock Origin - Chặn quảng cáo, tăng cường bảo mật, riêng tư
 ## Giới thiệu uBlock Origin
 Đây là addon chặn quảng cáo đạt tới mức độ **chân - thiện - mỹ** với thuật toán Regex được tối ưu cho tốc độ và thuật toán nhúng CSS để ẩn nội dụng được chau chuốt.
 
