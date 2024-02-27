@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Kết nối Firefox với ứng dụng ngoài để mở,tải video,playlist bằng MPV,yt-dlp/","tags":["on/bt_chiase"]}
 ---
 
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]] 
-tags:: #on/firefox 
-
-# Kết nối Firefox với ứng dụng ngoài để mở, tải video, playlist bằng MPV,yt-dlp
+>[!Note]
 > Cái này để setup thực ra khó vãi l** nên anh em cố gắng đọc kỹ đừng bỏ sót chỗ nào 🙂
-
+> 
 > Nhiều anh em sẽ thấy cái này cài đặt phiền phức vl nên sẽ ngại làm và đồng thời vì ngại làm nên cũng ko có cơ hội tiếp xúc với tính năng xịn xò con bò này ![:big_smile:](https://statics.voz.tech/styles/next/xenforo/smilies/popopo/big_smile.png?v=01 "big_smile    :big_smile:")
-
+> 
 > Thế nên để cho dễ dàng hơn anh em có thể dùng bản mpv mình đang dùng hiện tại đã được cài đặt chỉnh chọt hết rồi
 > Link bản *ăn liền* tải ở [đây](https://drive.google.com/file/d/1f-mihrcHTZGrnDoNmMXFulrqHV7HWoPl/view?usp=sharing)
+
+- ~ Video demo: [MPV demo](https://streamable.com/akf27z)
 
 **Ý tưởng:** Kết nối Firefox với các ứng dụng bên ngoài, mở rộng khả năng của Firefox ra thành gần như vô hạn, nó có thể làm được những điều sau dựa trên thời gian thử nghiệm ngắn ngủi của mình:  
 
@@ -32,7 +31,8 @@ tags:: #on/firefox
 ## Cài đặt trên Firefox
 - Chỉ dùng cho Floorp: [[Atlas/Notes/Sources/Hướng dẫn sử dụng handlers.json mà ko cần cài addon\|Hướng dẫn sử dụng handlers.json mà ko cần cài addon]]
 - Các bản firefox khác: [[Atlas/Notes/Sources/Addon External Application\|Addon External Application]] *(do cũng chưa test thử nên nếu anh em nào đang dùng các bản khác có thể làm thử bằng cái handler kia xem)*
-- [[Atlas/Notes/Sources/Userscript lấy link video để xem trong MPV\|Userscript lấy link video để xem trong MPV]]
+
+- [Userscript lấy link video để xem trong MPV](https://github.com/FirefoxUniverse/FirefoxTweaksVN/blob/main/userscript/m3u8.user.js)
 - [[Atlas/Notes/Sources/Usercript mở video trên youtube bằng cách click vào thumbnail\|Usercript mở video trên youtube bằng cách click vào thumbnail]]
 
 
