@@ -63,4 +63,6 @@ Mục này để chứa những  *Userscript*, lợi ích:
 [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord) Xóa tin nhắn discord hàng loạt  
 [Voz BeVietnam Font](https://greasyfork.org/en/scripts/476158-voz-bevietnam-font) Voz font cũ
 
-
+---
+>[!Sparkles] Source
+>[download - Tổng hợp các Userscripts | VOZ](https://voz.vn/t/tong-hop-cac-userscripts.914560/)
