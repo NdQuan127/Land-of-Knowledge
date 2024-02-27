@@ -1,13 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU/","tags":["on/firefox"]}
 ---
 
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
-tags:: #on/firefox 
-
-# Auto Tab Discard - Tự động unload tab không dùng tới để giảm RAM và CPU
-
-> Nếu anh em dùng Floorp thì không cần cài addon này, vì nó đã được native sẵn trong browser vào settings tìm là thấy.
+>[!Warning] 
+>Nếu anh em dùng Floorp thì không cần cài addon này, vì nó đã được native sẵn trong browser vào settings tìm là thấy.
 
 - [I] Firefox hay Chrome đi chăng nữa thì từ khi lên multi-process (đa tiến trình) khi dùng sẽ mở lên rất nhiều process kiểu firefox. Exe hay chrome. Exe, điều này không tốt cả về mặt hiệu năng lẫn bảo mật, mà tính năng unload tab có sẵn trong Firefox rất tệ. Nên việc cài một addon dạng unload tab như Auto Tab Discard để tắt những tab không dùng đi bạn sẽ **tiết kiệm được rất nhiều RAM và CPU** do các trang web chạy ngầm gây ra, ngoài ra khi nội dung web bị loại bỏ khỏi bộ nhớ thì kể cả lỗ hổng bảo mật mang tên Spectre and Meltdown cũng bó tay chịu trói.
 
