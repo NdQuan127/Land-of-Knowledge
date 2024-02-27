@@ -1,20 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/Userscript cho Violentmonkey-Greasymonkey-Tampermonkey/","tags":["on/bt_chiase"]}
 ---
-
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
-tags:: #on/bt_chiase  
 
 # Violentmonkey-Greasymonkey-Tampermonkey
 Tiện ích giúp nhúng Javascript vào trang web, rất tiện khi muốn chỉnh sửa trang web theo ý mình, loại bỏ rác rưởi tracking và nhiều tính năng khác.  
-  
-So sánh:  
 
+So sánh:  
 - Violentmonkey có tính tương thích cao, mã nguồn mở
-- Tampermoneky có tính tương thích rất cao, tuy nhiên là **mã nguồn đóng**: [https://github.com/Tampermonkey/tampermonkey/issues/1515](https://github.com/Tampermonkey/tampermonkey/issues/1515)
+- Tampermoneky có tính tương thích rất cao, tuy nhiên là [**mã nguồn đóng**](https://github.com/Tampermonkey/tampermonkey/issues/1515): 
 - Firemonkey là trẻ trâu mới vào làng, rất nhanh và nhẹ nhưng tính tương thích kiểu lúc được lúc không, nên tạm thời cho xuống Thùng Rác
 - Greasemonkey là thủy tổ của tất cả, tính tương thích tàm tạm, tính năng đã lỗi thời
 
+> **Lưu ý:** Tampermonkey không tương thích với nhiều script nếu dùng bị lỗi thì nên chuyển sang dùng Violentmonkey
 # Userscript 
 
 Mục này để chứa những  *Userscript*, lợi ích:  
@@ -22,303 +19,48 @@ Mục này để chứa những  *Userscript*, lợi ích:
 - Làm chủ mã nguồn, phát triển thêm nếu muốn
 - Rất nhiều addon chỉ đơn giản là Userscript, không đáng phải cài thành addon cho phí tài nguyên Firefox
 
-## ~~Facebook Unseen - Chặn seen trên Facebook~~
->**Outdate**
-```javaScript
-// ==UserScript==
-// @name            Facebook Unseen
-// @author          noname
-// @namespace       http://www.example.url/to/your-web-site/
-// @description     Put a good description in here
-// @license         Creative Commons Attribution License
-// @version            0.1
-// @include         http*://facebook.com/*
-// @include         http*://*.facebook.com/*
-// @include         http*://*.messenger.com/*
-// @include         http*://messenger.com/*
-// @grant        unsafeWindow
-// @run-at           document-start
-// @released        2006-04-17
-// @updated         2006-04-19
-// @compatible      Greasemonkey
-// ==/UserScript==
+>[!Orbit]
+>Mod @Fioren bên voz đã tạo 1 repository tự động tải và mã hóa các userscript trên bằng [Google Closure Compiler](https://github.com/google/closure-compiler) để giảm dung lượng userscript nhằm giảm ram, cpu khi lướt web các userscript trên. Link [đây](https://github.com/FiorenMas/Userscripts)
+### Tiện ích lướt web
+[Pagetual](https://greasyfork.org/vi/scripts/438684-pagetual), [AutoPager](https://greasyfork.org/zh-CN/scripts/419215-%E8%87%AA%E5%8A%A8%E6%97%A0%E7%BC%9D%E7%BF%BB%E9%A1%B5), [Super-preloader](https://github.com/machsix/Super-preloader): Cho phép cuộn trang liên tục không cần nhấn next trang
+[Web Access Accelerator](https://greasyfork.org/en/scripts/455853-%E7%BD%91%E9%A1%B5%E8%AE%BF%E9%97%AE%E5%8A%A0%E9%80%9F%E5%99%A8): Tải trước tất cả các link trong trang , tăng tốc load web 
+[InstantPage Super Lite](https://greasyfork.org/en/scripts/483622-instantpage-super-lite): Tải trước link chuẩn bị nhấn, nhẹ hơn thằng trên
+[Selection and Copying Restorer (Universal)](https://greasyfork.org/en/scripts/427575-selection-and-copying-restorer-universal): Mở khóa web chặn nhấn chuột phải, chống copy  
+[TimerHooker](https://greasyfork.org/en/scripts/372673-%E8%AE%A1%E6%97%B6%E5%99%A8%E6%8E%8C%E6%8E%A7%E8%80%85-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E8%B7%B3%E8%BF%87-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E5%8A%A0%E9%80%9F%E5%99%A8): Tăng tốc thời gian đếm ngược các trang yêu cầu chờ  
+[PreventPageVisibilityAuto](https://greasyfork.org/en/scripts/479726-preventpagevisibilityauto): Ngăn chặn việc bị phát hiện khi đổi sang tab khác.  
+[Smoothscroll](https://greasyfork.org/en/scripts/7018-smoothscroll): Cuộn mượt dành cho chrome  -video) Xem video max khung cửa sổ trình duyệt  
+[Reject serviceWorker Auto](https://greasyfork.org/en/scripts/482724-reject-serviceworker-auto): Chặn website cài service worker  
+[PageExpand](https://greasyfork.org/en/scripts/6294-pageexpand): Tải tài nguyên của 1 web  
+[Font Rendering (Customized)](https://greasyfork.org/en/scripts/416688-%E5%AD%97%E4%BD%93%E6%B8%B2%E6%9F%93-%E8%87%AA%E7%94%A8%E8%84%9A%E6%9C%AC): Font đẹp hơn trên chrome  
+[Visited Lite](https://greasyfork.org/en/scripts/15173-visited-lite): Đổi màu các trang web đã xem  
+[Anti Anti-debugger](https://greasyfork.org/en/scripts/440060-anti-anti-debugger): Mở khóa các trang web chặn ấn F12
 
-function getCookie(e) {
-  const t = `; ${document.cookie}`,
-    n = t.split(`; ${e}=`);
-  if (2 === n.length) return n.pop().split(";").shift()
-}(e => {
-  let i = getCookie("c_user"),
-    l = true,
-    o = {
-      fb_unseen: !0,
-      fb_typing: !0,
-      mess_unseen: !0,
-      mess_typing: !0
-    };
-  e.postMessage({
-    type: "get_settings",
-    value: "all"
-  }, "*"), e.addEventListener("message", function (e) {
-    var {
-      data: e
-    } = e.data ? e : {
-      data: {}
-    };
-    "update_setting" === e.type && (o[e.name] = e.value), "set_settings_all" === e.type && (o = {
-      ...e.value
-    })
-  }, !1), e.WebSocketProxy = new Proxy(e.WebSocket, {
-    construct: function (e, t) {
-      const n = new e(...t),
-        s = e => {},
-        a = e => {
-          n.removeEventListener("open", s), n.removeEventListener("close", a)
-        };
-      return n.addEventListener("open", s), n.addEventListener("close", a), n.send = new Proxy(n.send, {
-        apply: function (t, n, s) {
-          let a = new Uint8Array(s[0]);
-          if (!a || a.length < 100 || 1500 < a.length) return t.apply(n, s);
-          var r = (new TextDecoder).decode(a);
-          if (!((l ? o.mess_typing : o.fb_typing) && r.includes('"type":4') && r.includes('\\"label\\":\\"3\\"') && r.includes("is_typing"))) {
-            if ((l ? o.mess_unseen : o.fb_unseen) && r.includes('"type":3') && r.includes('\\"label\\":\\"21\\"') && !r.includes('\\"label\\":\\"46\\"') && r.includes("last_read_watermark_ts")) try {
-              r = "", a.map(e => r += String.fromCharCode(e)), regfex = /\\\\\\"thread_id\\\\\\"\:[0-9]+,\\\\\\"last_read/g;
-              let e = r.match(regfex);
-              return e ? (e.forEach(e => {
-                var t = e.match(/[0-9]+/g)[0],
-                  t = 15 < t.length ? "1000000000000000" : i;
-                r = r.replace(e, `\\\\\\"thread_id\\\\\\":${t},\\\\\\"last_read`)
-              }), s[0] = new Uint8Array(r.split("").map(e => e.charCodeAt(0))), t.apply(n, s)) : t.apply(n, s)
-            } catch (e) {
-              return void t.apply(n, s)
-            }
-            return t.apply(n, s)
-          }
-        }
-      }), n
-    }
-  }), i && (e.WebSocket = WebSocketProxy)
-})(unsafeWindow);
-```
+### Chặn ads, tracking, popup, shortlink...
+[Bypass All Shortlinks](https://greasyfork.org/en/scripts/431691-bypass-all-shortlinks): Vượt qua các shortlink | [Bản đã xóa quảng cáo trong script](https://voz.vn/goto/post?id=29305754)  
+[AdGuard Extra](https://github.com/AdguardTeam/AdGuardExtra): Xóa qc của adguard  
+[Popup Blocker by AdGuard](https://github.com/AdguardTeam/PopupBlocker): Chặn popup  
+[Clean Tracking URLs](https://greasyfork.org/en/scripts/456881-%E8%B7%9F%E8%B8%AA%E9%93%BE%E6%8E%A5%E5%87%80%E5%8C%96)  
+[ABPVN Script](https://github.com/abpvn/abpvn/tree/master/script)  
+[Privacy Redirector](https://greasyfork.org/en/scripts/436359-privacy-redirector): Chuyển tiếp sang các thay thế các trang MXH để chống bị theo dõi
+
+### Userscript cho Youtube
+[Youtube Ad Cleaner(Include Non-Skippable Ads- works)](https://greasyfork.org/en/scripts/386925-youtube-ad-cleaner-include-non-skippable-ads-works) , [YouTube Ads Skip](https://greasyfork.org/en/scripts/479557-youtube-ads-skip) , [YouTube AD Blocker](https://greasyfork.org/en/scripts/459541-youtube%E5%8E%BB%E5%B9%BF%E5%91%8A-youtube-ad-blocker/): Chặn quảng cáo
+[Nova youtube](https://greasyfork.org/en/scripts/433360-nova-youtube): Gồm các tiện ích như sponsorblock, hiện nút dislike
+[YouTube JS Engine Tamer](https://greasyfork.org/en/scripts/473972-youtube-js-engine-tamer): Fix lỗi youtube bóp chậm lag
+[YouTube Minimal on PC](https://greasyfork.org/en/scripts/457579-youtube-minimal-on-pc): Chuyển sang giao diện youtube mobile
+[Disable YouTube AutoPause](https://greasyfork.org/vi/scripts/457219-disable-youtube-autopause) , [Disable YouTube Music AutoPause](https://greasyfork.org/en/scripts/464888-disable-youtube-music-autopause) Xóa thông báo tạm dừng video khi xem thời gian dài
+
+### Userscript cho Mắc xoăn
+[FB - Clean my feeds](https://greasyfork.org/en/scripts/431970-fb-clean-my-feeds) , [F.B. Purity](https://www.fbpurity.com/install.htm) , [Social Fixer for Facebook](https://socialfixer.com/): Chặn quảng cáo, rác trên facebook
+[Instagram Download Button](https://greasyfork.org/en/scripts/406535-instagram-download-button): Tải video, ảnh trên instagram
+
+### Userscript cho các trang web khác
+[MPV-M3U8 Video Detector and Downloader](https://github.com/FirefoxUniverse/FirefoxTweaksVN/blob/main/userscript/m3u8.user.js): Tải xuống video dạng m3u8  
+[Bing Increase Word Limit](https://greasyfork.org/en/scripts/483319-bing-increase-word-limit): Bỏ giới hạn kí tự trong bing chat  
+[Better Google](https://github.com/aligo/better-google): Hiển thị kết quả tìm kiếm google tốt hơn  
+[ChatGPT Infinity ∞](https://greasyfork.org/en/scripts/465051-chatgpt-infinity) Chat gpt sẽ trả lời dài nhất có thể  
+[Netflix Plus](https://greasyfork.org/en/scripts/478739-netflix-plus) Tool netflix  
+[Undiscord](https://greasyfork.org/en/scripts/406540-undiscord) Xóa tin nhắn discord hàng loạt  
+[Voz BeVietnam Font](https://greasyfork.org/en/scripts/476158-voz-bevietnam-font) Voz font cũ
 
 
-## Recaptcha Solver
-
->  Vô đây bấm `raw` là cài được vào Monkey:  https://gist.github.com/origamiofficial/2557dd47fb0aaf08e3c298a236bfa14d
-
-## Tổng hợp userscript của  @fioren
-[https://greasyfork.org/vi/scripts/438684-pagetual](https://greasyfork.org/vi/scripts/438684-pagetual)  
-[https://greasyfork.org/en/scripts/419215-自动无缝翻页](https://greasyfork.org/en/scripts/419215-%E8%87%AA%E5%8A%A8%E6%97%A0%E7%BC%9D%E7%BF%BB%E9%A1%B5)  
-[https://github.com/TagoDR/MangaOnlineViewer/](https://github.com/TagoDR/MangaOnlineViewer/)  
-[https://github.com/AdguardTeam/AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra)  
-[https://greasyfork.org/en/scripts/387969-twitterᴾˡᵘˢ-view-twitter-origin-images](https://greasyfork.org/en/scripts/387969-twitter%E1%B4%BE%CB%A1%E1%B5%98%CB%A2-view-twitter-origin-images)  
-[https://greasyfork.org/en/scripts/443342-telegram-photo-protection-remover](https://greasyfork.org/en/scripts/443342-telegram-photo-protection-remover)  
-[https://github.com/AdguardTeam/PopupBlocker](https://github.com/AdguardTeam/PopupBlocker)  
-[https://greasyfork.org/en/scripts/406535-instagram-download-button](https://greasyfork.org/en/scripts/406535-instagram-download-button)  
-[https://greasyfork.org/en/scripts/438894-timerhooker-english-version](https://greasyfork.org/en/scripts/438894-timerhooker-english-version)  
-[https://github.com/AdvMaple/bilibili-subtitle-download-plugin](https://github.com/AdvMaple/bilibili-subtitle-download-plugin)  
-[https://github.com/IceWreck/Page-Visibility-User-Script/blob/master/pagevisibilityuserscript.js](https://github.com/IceWreck/Page-Visibility-User-Script/blob/master/pagevisibilityuserscript.js)  
-[https://greasyfork.org/vi/scripts/423001-twitter-media-downloader](https://greasyfork.org/vi/scripts/423001-twitter-media-downloader)  
-[https://greasyfork.org/en/scripts/381682-html5视频播放器增强脚本](https://greasyfork.org/en/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)  
-[https://greasyfork.org/en/scripts/16323-youtube-player-controls](https://greasyfork.org/en/scripts/16323-youtube-player-controls)  
-[https://github.com/abpvn/abpvn/tree/master/script](https://github.com/abpvn/abpvn/tree/master/script)  
-[https://greasyfork.org/en/scripts/24204-picviewer-ce](https://greasyfork.org/en/scripts/24204-picviewer-ce)  
-[https://github.com/Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader)  
-[https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy)  
-[https://greasyfork.org/en/scripts/33005-direct-download-from-google-play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play)  
-[https://github.com/insin/tweak-new-twitter/](https://github.com/insin/tweak-new-twitter/)  
-[https://greasyfork.org/en/scripts/421603-magic-userscript-show-site-all-userjs](https://greasyfork.org/en/scripts/421603-magic-userscript-show-site-all-userjs)  
-[https://greasyfork.org/en/scripts/436115-return-youtube-dislike](https://greasyfork.org/en/scripts/436115-return-youtube-dislike)  
-[https://gist.github.com/origamiofficial/2557dd47fb0aaf08e3c298a236bfa14d](https://gist.github.com/origamiofficial/2557dd47fb0aaf08e3c298a236bfa14d)  
-[https://greasyfork.org/vi/scripts/468182-google-colab-auto-reconnect](https://greasyfork.org/vi/scripts/468182-google-colab-auto-reconnect)  
-[https://github.com/the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)  
-[https://greasyfork.org/en/scripts/8128-youtube-h-264](https://greasyfork.org/en/scripts/8128-youtube-h-264)  
-[https://github.com/lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript)
-
-
-
-## Thay đổi kích cỡ font tuỳ ý trên trang muốn chỉnh
-
-Cách sử dụng (được cho cả Android, ấn vào biểu tượng con khỉ):  
-- Vào trang web cần chỉnh font
-- Chọn `Set TextZoom Auto` và đặt kích cỡ (mặc định 20)
-
-```javaScript 
-// ==UserScript==
-// @name        TextZoomAuto
-// @namespace   TextZoomAuto
-// @match       *://*/*
-// @grant       GM_getValue
-// @grant       GM_setValue
-// @grant       GM_addStyle
-// @grant       GM_registerMenuCommand
-// @version     1.1
-// @author      -
-// @description 10/4/2023, 5:07:06 PM
-// ==/UserScript==
-
-var defaultvalue = 20;
-var name = 'TextZoomAuto';
-var prefix = "autoinject" + name;
-var value = GM_getValue("value" + name + document.domain, defaultvalue);
-console.log(value);
-var injectedStatus = false;
-var hostarray = [];
-
-function inject() {
-    //if (window.self !== window.top) return; // Not in frames
-    if (injectedStatus !== false) return; // Not if already injected
-    GM_addStyle('* {font-size:' + value + 'px!important;}');
-    injectedStatus = true;
-}
-
-function addHost() {
-    hostarray.push(location.hostname);
-    GM_setValue(prefix, JSON.stringify(hostarray));
-    if (injectedStatus == false) inject;
-}
-
-function set() {
-    var val = window.prompt("Enter " + name + document.domain + " value", defaultvalue);
-    val = parseInt(val);
-    if (val == undefined) {
-        return false;
-    }
-    GM_setValue("value" + name + document.domain, val);
-}
-
-function plus() {
-    var value = GM_getValue("value" + name + document.domain, defaultvalue);
-    GM_setValue("value" + name + document.domain, value + 1);
-}
-
-function minus() {
-    var value = GM_getValue("value" + name + document.domain, defaultvalue);
-    GM_setValue("value" + name + document.domain, value - 1);
-}
-
-function removeHost() {
-    var index = hostarray.indexOf(location.hostname);
-    if (index > -1) {
-        hostarray.splice(index, 1);
-        GM_setValue(prefix, JSON.stringify(hostarray));
-    }
-}
-// This should work in Violentmonkey and Tampermonkey, but unfortunately not Greasemonkey.
-try {
-    hostarray = JSON.parse(GM_getValue(prefix, "[]"));
-    if (typeof (value) == 'number') {
-        GM_registerMenuCommand("+", plus);
-        GM_registerMenuCommand("-", minus);
-    }
-    GM_registerMenuCommand("Set TextZoomAuto", set);
-    if (hostarray.includes(location.hostname)) {
-        inject();
-        injectedStatus = true;
-        GM_registerMenuCommand("Stop Auto-Injecting TextZoomAuto", removeHost);
-    } else {
-        GM_registerMenuCommand("Inject TextZoomAuto", inject);
-        GM_registerMenuCommand("Auto-Inject on " + location.hostname, addHost);
-    }
-} catch (err) {
-    console.log("Error adding Inject menu items: " + name);
-    console.log(err);
-}
-```
-
-
-## Font Facebook - Roboto
-```javaScript
-// ==UserScript==
-// @name          Font facebook
-// @include       *messenger.com*
-// @include       *facebook.com*
-// @version       1.0
-// ==/UserScript==
-
-(function() {var css = ["/* cyrillic-ext */",
-"@font-face {",
-"  font-family: 'Roboto';",
-"  font-style: normal;",
-"  font-weight: 400;",
-"  font-display: swap;",
-"  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');",
-"  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;",
-"}",
-"/* cyrillic */",
-"@font-face {",
-"  font-family: 'Roboto';",
-"  font-style: normal;",
-"  font-weight: 400;",
-"  font-display: swap;",
-"  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2) format('woff2');",
-"  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;",
-"}",
-"/* greek-ext */",
-"@font-face {",
-"  font-family: 'Roboto';",
-"  font-style: normal;",
-"  font-weight: 400;",
-"  font-display: swap;",
-"  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2) format('woff2');",
-"  unicode-range: U+1F00-1FFF;",
-"}",
-"/* greek */",
-"@font-face {",
-"  font-family: 'Roboto';",
-"  font-style: normal;",
-"  font-weight: 400;",
-"  font-display: swap;",
-"  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2) format('woff2');",
-"  unicode-range: U+0370-03FF;",
-"}",
-"/* vietnamese */",
-"@font-face {",
-"  font-family: 'Roboto';",
-"  font-style: normal;",
-"  font-weight: 400;",
-"  font-display: swap;",
-"  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2) format('woff2');",
-"  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;",
-"}",
-"/* latin-ext */",
-"@font-face {",
-"  font-family: 'Roboto';",
-"  font-style: normal;",
-"  font-weight: 400;",
-"  font-display: swap;",
-"  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format('woff2');",
-"  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;",
-"}",
-"/* latin */",
-"@font-face {",
-"  font-family: 'Roboto';",
-"  font-style: normal;",
-"  font-weight: 400;",
-"  font-display: swap;",
-"  src: url(https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');",
-"  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;",
-"}",
-"",
-"body, button, input, label, select, td, textarea{",
-"    font-family: 'Roboto', sans-serif !important;",
-"}"
-].join("\n");
-if (typeof GM_addStyle != 'undefined') {
- GM_addStyle(css);
- } else if (typeof PRO_addStyle != 'undefined') {
- PRO_addStyle(css);
- } else if (typeof addStyle != 'undefined') {
- addStyle(css);
- } else {
- var node = document.createElement('style');
- node.type = 'text/css';
- node.appendChild(document.createTextNode(css));
- var heads = document.getElementsByTagName('head');
- if (heads.length > 0) { heads[0].appendChild(node);
- } else {
- // no head yet, stick it whereever
- document.documentElement.appendChild(node);
- }
-}})();
-```
