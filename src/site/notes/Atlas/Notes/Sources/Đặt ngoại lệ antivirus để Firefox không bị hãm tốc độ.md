@@ -1,11 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ/","tags":["on/firefox"]}
 ---
-
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ
 
 **Giải pháp:**  
 - Cho Firefox (cả folder chứa firefox.exe và folder profile) vào ngoại lệ của WD để nó không bao giờ động chạm vào Firefox nữa
