@@ -13,7 +13,7 @@
 - Có 1 fact là thằng Windows Defender cố tình đì các browser khác để buff bẩn cho Edge và Firefox là 1 trong những thằng bị đì ác nhất. Vậy giải pháp của chúng ta là: [[Atlas/Notes/Sources/Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ\|Đặt ngoại lệ antivirus để Firefox không bị hãm tốc độ]]
 - [[Atlas/Notes/Sources/nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU\|nglayout.initialpaint.delay khiến Firefox render trang ít đi giảm tổng tiêu thụ CPU]]
 - [[Atlas/Notes/Sources/Ép Firefox lưu cache trên RAM mà không cần RAMDisk\|Ép Firefox lưu cache trên RAM mà không cần RAMDisk]]
-- [[Atlas/Notes/Sources/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox (an toàn 1000%)\|Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox (an toàn 1000%)]]
+- [[Atlas/Notes/Sources/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox an toàn 1000%\|Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox an toàn 1000%]]
 - [[Atlas/Notes/Sources/Tắt OCSP để tăng tốc kết nối tới trang web\|Tắt OCSP để tăng tốc kết nối tới trang web]]
 - [[Atlas/Notes/Sources/Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong\|Bật Early Hint để tăng tốc tải trang bằng cách tải trước nội dung trang web trước khi cả trang tải xong]]
 - [[Atlas/Notes/Sources/Bật punycode để miễn nhiễm với tên miền giả mạo\|Bật punycode để miễn nhiễm với tên miền giả mạo]]
