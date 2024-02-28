@@ -35,11 +35,13 @@ Có 3 bộ autoconfig để load userChromeJS đáng chú ý là:
 	- Tải thẳng vào folder `JS` bên trên
 	- Save
 
-Khởi động lại là xong (tốt nhất là dùng `about:support` -> `Clear startup cache...` để Firefox đào thải cache cũ khiến Loader không nạp được), kết quả y như sau:
-![image.webp](/img/user/Atlas/Utilities/Images/image.webp)
+Khởi động lại là xong (tốt nhất là dùng `about:support` -> `Clear startup cache...` để Firefox đào thải cache cũ khiến Loader không nạp được), kết quả y như sau: ![Pasted image 20240228212359.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240228212359.png)
 
 ## MouseGesture
 Lướt web bằng chuột xịn hịn nhất quả đất, có thể sử dụng được trên cả những trang mà addon có chức năng tương đương khác không dùng được.
 
 Tải thẳng file này [**MouseGestures2_e10s.uc.js**](https://raw.githubusercontent.com/alice0775/userChrome.js/master/117/MouseGestures2_e10s.uc.js) vào thư mục `JS`. Khởi động lại Firefox/Floorp
 
+>[!Sparkle] Source
+>
+>
