@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tắt OCSP để tăng tốc kết nối tới trang web/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tắt OCSP để tăng tốc kết nối tới trang web/","tags":["#on/firefox"]}
 ---
 
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# Tắt OCSP để tăng tốc kết nối tới trang web
 Đầu tiên cần hiểu OCSP là gì, nó hoạt động ra sao thì Firefox cứ mỗi khi các bạn kết nối với một trang web, nó sẽ gửi cái chứng chỉ đến máy chủ OCSP (máy chủ xác thực trạng thái chứng chỉ) để kiểm tra độ tin cậy của chứng chỉ, xem nó đã hết hạn hay bị giả mạo hay không thì sẽ bị buộc thu hồi, đó gọi là OCSP.  
   
 Thế nhưng việc kết nối tới máy chủ để kiểm tra như vậy có nhiều nhược điểm:  
