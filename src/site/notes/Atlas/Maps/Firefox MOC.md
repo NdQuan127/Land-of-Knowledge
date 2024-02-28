@@ -42,6 +42,10 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 - [[Atlas/Notes/Sources/FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế\|FileCentiPede - Tải đa luồng như IDM, bắt link video và hơn thế]]
 - *updating...*
 
+## Tùy biến Firefox 
+- [[Atlas/Notes/Sources/Giới thiệu và một số cách sử dụng userChrome.js\|Giới thiệu và một số cách sử dụng userChrome.js]]
+
+
 ## Kiến thức chung
 
 > Phần này nhằm giới thiệu cho anh em 1 số kiến thức thú vị liên quan đến thế giới trình duyệt
