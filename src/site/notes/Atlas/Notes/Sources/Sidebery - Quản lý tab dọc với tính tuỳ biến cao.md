@@ -78,3 +78,15 @@ Vào `about:support` rồi Open Containing Folder, tạo folder `chrome`, tạo 
 >Link tải: [colorful-minimalist/hacks/sideberyModsLeftSlide.css at main · Redundakitties/colorful-minimalist · GitHub](https://github.com/Redundakitties/colorful-minimalist/blob/main/hacks/sideberyModsLeftSlide.css)
 
 Đọc thêm bài này để có thể kiếm được vài cái hay ho để tùy biến Firefox: [[Atlas/Notes/Sources/Giới thiệu và một số cách sử dụng userChrome.js\|Giới thiệu và một số cách sử dụng userChrome.js]]
+
+>[!Warning]
+>Muốn xóa cái này cho đỡ ngứa mắt ![Pasted image 20240228211824.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020240228211824.png) thì vô `userChrome.css` dán đoạn code này vô
+>
+
+```css
+#sidebar-header {
+
+  display: none!important;
+
+}
+```
