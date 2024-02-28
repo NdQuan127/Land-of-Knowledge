@@ -53,3 +53,5 @@ Chrome: [https://streamable.com/huoket](https://streamable.com/huoket)
 - [[+/DNS là cái chi mô răng rứa\|DNS là cái chi mô răng rứa]]
 - [[+/Hướng dẫn tự fix bug Firefox\|Hướng dẫn tự fix bug Firefox]]
 - [[+/Alternative Front Ends - Cuộc cách mạng sẽ thay đổi đống web ngu học như Youtube, FB,... mãi mãi\|Alternative Front Ends - Cuộc cách mạng sẽ thay đổi đống web ngu học như Youtube, FB,... mãi mãi]]
+- [[Từ điển about config để go pro \|Từ điển about config để go pro ]]
+- *updating...*
