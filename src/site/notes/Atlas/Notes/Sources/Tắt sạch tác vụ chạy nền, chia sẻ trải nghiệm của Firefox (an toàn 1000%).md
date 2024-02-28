@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox (an toàn 1000%)/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Sources/Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox (an toàn 1000%)/","tags":["#on/firefox"]}
 ---
 
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# Tắt sạch tác vụ chạy nền, chia sẻ trải nghiệm của Firefox (an toàn 1000%)
 Copy tất đoạn code sau rồi paste vô Notepad, save as file tên là `user.js` rồi ném thẳng vào folder profile Firefox tìm trong `about:support` -> `Open Profile Folder` -> Khởi động lại Firefox.
 
 ```javascript
