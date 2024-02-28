@@ -75,7 +75,7 @@ Vào `about:support` rồi Open Containing Folder, tạo folder `chrome`, tạo 
 ## Auto Hide Sidebar như Edge
 >[!Note]
 >Vào about:support -> `Open Profile Folder` -> Vô folder `Chrome` -> Vô tiếp folder `CSS` -> Paset code dưới vào 
->Link tải: [colorful-minimalist/hacks/sideberyModsLeftSlide.css at main · Redundakitties/colorful-minimalist · GitHub](https://github.com/Redundakitties/colorful-minimalist/blob/main/hacks/sideberyModsLeftSlide.css)
+>Link tải:[colorful-minimalist/hacks/sideberyModsLEFT.css at main · Redundakitties/colorful-minimalist · GitHub](https://github.com/Redundakitties/colorful-minimalist/blob/main/hacks/sideberyModsLEFT.css)
 
 Đọc thêm bài này để có thể kiếm được vài cái hay ho để tùy biến Firefox: [[Atlas/Notes/Sources/Giới thiệu và một số cách sử dụng userChrome.js\|Giới thiệu và một số cách sử dụng userChrome.js]]
 
