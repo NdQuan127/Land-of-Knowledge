@@ -71,3 +71,10 @@ Vào `about:support` rồi Open Containing Folder, tạo folder `chrome`, tạo 
 
 **Đây là kết quả khi ẩn cả tab ngang và tab dọc (tab dọc anh em có thể ẩn hiện nó bằng phím F1 để cho tiện)**
 ![Pasted image 20230901160906.png](/img/user/Atlas/Utilities/Images/Pasted%20image%2020230901160906.png)
+
+## Auto Hide Sidebar như Edge
+>[!Note]
+>Vào about:support -> `Open Profile Folder` -> Vô folder `Chrome` -> Vô tiếp folder `CSS` -> Paset code dưới vào 
+>Link tải: [colorful-minimalist/hacks/sideberyModsLeftSlide.css at main · Redundakitties/colorful-minimalist · GitHub](https://github.com/Redundakitties/colorful-minimalist/blob/main/hacks/sideberyModsLeftSlide.css)
+
+Đọc thêm bài này để có thể kiếm được vài cái hay ho để tùy biến Firefox: [[Atlas/Notes/Sources/Giới thiệu và một số cách sử dụng userChrome.js\|Giới thiệu và một số cách sử dụng userChrome.js]]
