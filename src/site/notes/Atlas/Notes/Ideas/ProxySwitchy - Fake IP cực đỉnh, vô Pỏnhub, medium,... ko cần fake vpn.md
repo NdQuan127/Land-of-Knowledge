@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn/"}
+{"dg-publish":true,"permalink":"/Atlas/Notes/Ideas/ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn/","tags":["on/firefox"]}
 ---
 
-up:: [[Atlas/Maps/Firefox MOC\|Firefox MOC]]
-tags:: #on/bt_chiase 
-
-# ProxySwitchy - Fake IP cực đỉnh, vô Pỏnhub, medium,... ko cần fake vpn
 [**ProxySwitchy Omega - Fake IP cực đỉnh**](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/), addon này hỗ trợ đổi qua lại các proxy chỉ với một cú nhập chuột, và quan trọng hơn là tính năng chỉ fake proxy trên tên miền, một tính năng mà mình luôn yêu cầu cho mọi addon dạng thay đổi nội dung web mà mình giới thiệu từ trước tới giờ, ví dụ như uBlock có, Noscript có, RequestPolicy có, Custom User-Agent String có.  
 
 Cách sử dụng thì cứ tạo profile proxy bình thường rồi nhấp biểu tượng ProxySwitchy rồi đổi thôi.  
@@ -20,7 +16,7 @@ Còn tính năng chỉ dùng proxy trên tên miền/trang mà mình ưa thích 
 - Không gây lỗi web như GoodbyeDPI vì nó chỉ hoạt động trên những trang cần thiết chứ không toàn bộ hệ thống
 
 Cách thức:  
-- Tải [**Demergi**](https://voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-pc-mobile.682181/post-25669585), giải nén.
+- Tải [Releases · hectorm/demergi](https://github.com/hectorm/demergi/releases), giải nén.
 - Bật lên
 - (Mẹo) *Sử dụng file .vbs để ẩn cái bảng CMD đi:*
 	- Tạo file .vbs bỏ chung với file demergi-win-x 64.exe là được: `CreateObject("WScript.Shell").Run "demergi-win-x64.exe",0,True`
